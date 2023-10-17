@@ -1,0 +1,1021 @@
+[
+  {
+    "category": "Analytics & Dashboards",
+    "name": "Dune",
+    "desc": "Blockchain ecosystem analytics by and for the community",
+    "website": "http://dune.com/",
+    "groupTitle": "",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "YieldWatch",
+    "desc": "Track your Yield Farming and Liquidity Pool performance on BNB Chain",
+    "website": "https://www.yieldwatch.net/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Defistation",
+    "desc": "Defi dashboard",
+    "website": "https://www.defistation.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Bitquery",
+    "desc": "GraphQL explorer of Binance Chain data",
+    "website": "https://bitquery.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "DeBank",
+    "desc": "A multi-chain portfolio tracker that supports the largest number of DeFi protocols",
+    "website": "http://debank.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Bloxy",
+    "desc": "One stand data source for understanding Binance DEX",
+    "website": "http://bloxy.info/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Footprint Analytics",
+    "desc": "Blockchain analytics",
+    "website": "https://www.footprint.network/about",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Web3Go",
+    "desc": "Web3Go is an all-in-one open data analytics and service platform where everyone can grasp the value behind blockchain data",
+    "website": "https://web3go.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "BscScan",
+    "desc": "Blockchain explorer of BNB Chain",
+    "website": "https://bscscan.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "BSCTrace",
+    "desc": "Blockchain explorer of BNB Chain from NodeReal",
+    "website": "https://bsctrace.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "GreenfieldScan",
+    "desc": "",
+    "website": "https://greenfieldscan.com/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "MINTSCAN",
+    "desc": "A fast explorer for the Beacon Chain",
+    "website": "https://binance.mintscan.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "NodeReal",
+    "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
+    "website": "https://nodereal.io/",
+    "chains": "bsc,opbnb,greenfield"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Ankr",
+    "desc": "Ankr provides builders with streamlined access to a global network of nodes running on 18 different blockchains",
+    "website": "https://ankr.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Chainstack",
+    "desc": "From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications",
+    "website": "https://chainstack.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "NowNodes",
+    "desc": "Get your crypto API for instant access to 40+ blockchain networks including BTC, ETH, and BSC which is over 1000 coins and tokens",
+    "website": "https://nownodes.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "QuickNode",
+    "desc": "They make it simple to build blockchain applications and scale up as you grow. From elastic APIs to powerful tools and analytics, all at your command through a simple control panel",
+    "website": "http://quicknode.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "BlockVision",
+    "desc": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers that boasts impressively low-latencies and high availability",
+    "website": "https://blockvision.org/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Covalent",
+    "desc": "Covalent provides a unified API bringing visibility to billions of Web3 data points",
+    "website": "https://www.covalenthq.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "InfStones",
+    "desc": "InfStones' easy-to-use blockchain infrastructure.",
+    "website": "https://infstones.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Moralis",
+    "desc": "Moralis provides APIs, SDKs and Data for building high performance dApps. Integrate Web3 into any tech stack",
+    "website": "http://moralis.io",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Gomu",
+    "desc": "NFT API",
+    "website": "https://www.gomu.co/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Bounce Finance",
+    "desc": "NFT API and Web3 marketplace",
+    "website": "https://bounce.finance/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "NFTScan",
+    "desc": "The NFTScan API helps developers build new experiences retrieving NFTs and data analysis. We provide a set of endpoints that enable you to fetch ERC721 and ERC1155 NFT assets as well as transactions, collections, marketplace statistics and more",
+    "website": "https://nftscan.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "BlockVision",
+    "desc": "BlockVision synchronizes and integrates core NFT marketplace data such as OpenSea and LooksRare, just to let you save everything while developing NFT applications",
+    "website": "https://blockvision.org/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "Venly",
+    "desc": "Unity plugin, NFT to email, Shopify-app, NFT API, NFT analytics, NFT minter",
+    "website": "https://www.venly.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "NFTrade",
+    "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
+    "website": "https://nftrade.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "PARSIQ",
+    "desc": "Raw onchain data indexing, monitoring and intelligence platform",
+    "website": "https://www.parsiq.net/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Nakji",
+    "desc": "Data indexing protocol for BNB Chain, mainly for DeFi, NFTs soon",
+    "website": "https://nakji.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Celer cBridge",
+    "desc": "cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users, highly efficient and easy-to-use liquidity management for both cBridge node operators and Liquidity Providers who do not want to operate cBridge nodes, and new exciting developer-oriented features such as general message bridging for cases like cross-chain DEX and NFTs",
+    "website": "https://cbridge.celer.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "LayerZero",
+    "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
+    "website": "https://layerzero.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "ChainHop",
+    "desc": "ChainHop is a composable multi-chain liquidity network that facilitates multi-chain-native dApps, such as cross-chain DEX, cross-chain lending, etc. Built with the advanced multi-chain interoperability protocols, ChainHop unifies segmented liquidity across different chain and provides users & developer with a truly streamlined multi-chain experience",
+    "website": "https://chainhop.exchange/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Ren Project",
+    "desc": "Ren is an open and community-driven protocol that enables the movement of value between blockchains",
+    "website": "https://github.com/renproject/ren/wiki/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "HashFlow",
+    "desc": "Bridgeless cross-chain swaps",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
+    "website": "https://www.hashflow.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Browser",
+    "groupTitle": "",
+    "name": "Opera",
+    "desc": "Web3 dedicated browser for desktop and mobile",
+    "website": "https://www.opera.com/crypto/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Tally",
+    "desc": "Tally is a DAO operations platform",
+    "website": "https://www.tally.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Collab.Land",
+    "desc": "Collab.Land leverages the power of identity through crypto currency to create a social space unique to a specific network of humans. Once you add the bot to your Telegram group or Discord guild, they will manage your people for you. Depending on their token holdings they will be allowed to join the community. If they sell, the bot boots them",
+    "website": "https://collab.land/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Coinshift",
+    "desc": "Coinshift simplifies treasury management by providing efficient multisig tooling to save time & money for crypto organisations",
+    "website": "https://coinshift.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Snapshot",
+    "desc": "Snapshot is a decentralized voting system",
+    "website": "https://snapshot.org/#/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "HQ.xyz",
+    "desc": "Wallet aggregation and Zapier-like automation tools for DAOs",
+    "website": "https://www.hq.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "dApp Store",
+    "groupTitle": "",
+    "name": "dApp Bay",
+    "desc": "",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/bbfaaa13-d441-494a-9cda-2d5c2829f197.png",
+    "website": "https://dappbay.bnbchain.org/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "dApp Store",
+    "groupTitle": "",
+    "name": "Magic Square",
+    "desc": "",
+    "website": "https://magicsquare.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Binance Oracle",
+    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
+    "website": "https://oracle.binance.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Band Protocol",
+    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "website": "https://bandprotocol.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Chainlink",
+    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
+    "website": "https://chain.link/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time on-chain market data",
+    "website": "https://pyth.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Solhint",
+    "desc": "This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations",
+    "website": "https://github.com/protofire/solhint",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Ethlint",
+    "desc": "Ethlint (Formerly Solium) analyzes your Solidity code for style & security issues and fixes them",
+    "website": "https://github.com/duaraghav8/Ethlint",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Manticore",
+    "desc": "Manticore is a symbolic execution tool for analysis of smart contracts and binaries",
+    "website": "https://github.com/trailofbits/manticore",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Slither",
+    "desc": "Slither is a Solidity static analysis framework",
+    "website": "https://github.com/crytic/slither",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Echidna",
+    "desc": "Echidna is a program designed for fuzzing/property-based testing of Ethereum smart contracts",
+    "website": "https://github.com/crytic/echidna",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Front-End Programming",
+    "name": "Web3.js",
+    "desc": "Access full node capabilities without running your own",
+    "website": "https://github.com/ethereum/web3.js/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Front-End Programming",
+    "name": "Ethers.js",
+    "desc": "Designed to make it easier to write client-side JavaScript based wallets, keeping the private key on the owner’s machine at all times",
+    "website": "https://docs.ethers.io/ethers.js/v3.0/html/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Web3.py",
+    "desc": "A python interface for interacting with the Ethereum blockchain and ecosystem",
+    "website": "https://github.com/ethereum/web3.py",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Web3.php",
+    "desc": "A php interface for interacting with the Ethereum blockchain and ecosystem. Native ABI parsing and smart contract interactions",
+    "website": "https://github.com/web3p/web3.php",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Java Web3",
+    "desc": "Lightweight Java and Android library for integration with Ethereum clients",
+    "website": "https://github.com/web3j/web3j",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Net Web3",
+    "desc": "Bringing the love of .NET to Ethereum An open source .NET integration library for blockchain",
+    "website": "https://nethereum.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Ruby Web3",
+    "desc": "Ethereum library for the Ruby language",
+    "website": "https://github.com/EthWorks/ethereum.rb",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "Remix",
+    "desc": "Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains",
+    "website": "https://remix.ethereum.org/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "Intellij Solidity Plugin",
+    "desc": "Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable",
+    "website": "https://jetbrains.com/idea/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "ChainIDE",
+    "desc": "A Cloud-Based Multi-Chain IDE",
+    "website": "https://chainide.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Truffle",
+    "desc": "A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine",
+    "website": "https://trufflesuite.com/boxes/BSC-Truffle-Starter-Box/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Embark",
+    "desc": "Embark is a platform that enables easy development and deployment of decentralized applications",
+    "website": "https://github.com/embark-framework/embark",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Waffle",
+    "desc": "The most advanced framework for testing smart contracts",
+    "website": "https://getwaffle.io/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "OpenZeppelin",
+    "desc": "OpenZeppelin provides security products to build, automate, and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products",
+    "website": "https://www.openzeppelin.com/defender",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "HardHat",
+    "desc": "Hardhat is a development environment for Ethereum software",
+    "website": "https://hardhat.org/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Venly",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://www.venly.io/product-wallet",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Sequence.app",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://sequence.app/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Web3Auth",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://web3auth.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "BSC Connector",
+    "desc": "This example demonstrates how to support the Binance Chain Wallet through a custom connector",
+    "website": "https://github.com/aragon/use-wallet/tree/master/examples",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Qredo",
+    "desc": "MPC Wallets increase overall security for key management and such solutions are critical for protocol/project treasury management",
+    "website": "https://www.qredo.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Gnosis",
+    "desc": "The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution",
+    "website": "https://gnosis-safe.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Particle Network",
+    "desc": "Particle Network is a mobile app data and development platform for Web3.0. Mobile-first, data driven, composable.",
+    "website": "https://particle.network/",
+    "logo": "https://particle.network/favicons/favicon.ico",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Starton",
+    "desc": "Starton is the most powerful development suite to build and scale web3 applications. We are the bridge to enable web2 companies to embrace web3",
+    "website": "https://www.starton.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Gaming Tools",
+    "groupTitle": "",
+    "name": "GameSpace",
+    "desc": "GameFi as a service",
+    "website": "https://game.space/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Gasless Solutions",
+    "groupTitle": "",
+    "name": "Biconomy",
+    "desc": "Gasless solution",
+    "website": "http://biconomy.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Rareboard",
+    "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
+    "website": "http://rareboard.com",
+    "chains": "bsc"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Venly",
+    "desc": "Wallet with marketplace and APIs",
+    "website": "https://www.venly.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "NFTrade",
+    "desc": "Create, buy, sell, swap and farm NFTs",
+    "website": "https://nftrade.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Element",
+    "desc": "The First Community-Driven Aggregated Marketplace",
+    "website": "https://www.element.market/bsc",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Binance Connect",
+    "desc": "Fiat onramp: crypto purchase with credit card + NFT checkout",
+    "website": "https://www.binancecnt.com/en",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "MoonPay",
+    "desc": "A fast and simple way to buy and sell crypto",
+    "website": "https://www.moonpay.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Transak",
+    "desc": "Enable users to buy crypto from your app. Available across 100+ cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 125+ countries",
+    "website": "https://transak.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Okse",
+    "desc": "Wallet and virtual card to pay with cryptocurrencies",
+    "website": "https://okse.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Kado",
+    "desc": "Multichain on-ramp",
+    "website": "https://www.kado.money/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "SuperFluid",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/SuperFluid.png?v=3",
+    "desc": "Handle subscriptions, laries, rewards and any composable stream of value",
+    "website": "https://www.superfluid.finance/home",
+    "chains": "bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Pip",
+    "desc": "Micro-transaction enabler and check-out button for e-commerce",
+    "website": "https://www.getpip.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "CertiK",
+    "desc": "Leading security-focused ranking platform to analyze and monitor blockchain protocols and DeFi projects",
+    "website": "https://www.certik.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "PeckShield",
+    "desc": "Security Audit, Threat Monitoring and Prevention, Pen Test and Emergency Response, Total Solutions",
+    "website": "https://peckshield.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "SlowMist",
+    "desc": "SlowMist is a Blockchain security firm, providing security audits, security consultants, red teaming, and more",
+    "website": "https://www.slowmist.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Staging Labs",
+    "desc": "An infrastructure layer protecting Web3 users and businesses from mistakes, hacks, and scams",
+    "website": "https://www.staginglabs.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Go+ / Go Plus",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/Go and Go Plus.png",
+    "desc": "Provide security service, open & permissionless, accessible to everyone. We want to optimize the revenue model for white hats, developers, and security auditors to provide security services and expand user coverage by allowing users to have easier access to the high efficient security resources. Two main product are developed for this purpose, Go+ API and Go Pocket",
+    "website": "https://gopluslabs.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Verichains",
+    "desc": "Provides security audit services and formally verified audits for your blockchain implementation, consensus protocol, smart contracts and dApps using industry-standard security patterns and best practices",
+    "website": "https://audit.verichains.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "HashDit",
+    "desc": "HashDit is dedicated to helping build a safe ecosystem for both users and smart contract developers on BNB Chain by providing in-time threat intelligence, comprehensive code auditing and instant analysis on BNB projects",
+    "website": "https://www.hashdit.io",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Halborn",
+    "desc": "Blockchain security firm focused on security advisory, advanced penetration testing, smart contract audits and devOps & automation",
+    "website": "https://halborn.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Trail of Bits",
+    "desc": "Software assurance, security engineering and research & development security services with a wide range of products",
+    "website": "https://www.trailofbits.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Consensys Diligence",
+    "desc": "Smart contract audit",
+    "website": "https://consensys.net/diligence/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Zokyo",
+    "desc": "Security audits (protocol, base code, wallet, smart contract), Penetration Testing and other security assessments",
+    "website": "https://www.zokyo.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "SPACE ID",
+    "desc": "Building on BNB Chain, SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. It is chain-agnostic, decentralized, censorship-resistant, and open-sourced",
+    "website": "http://space.id/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Galaxy",
+    "desc": "A collaborative credential infrastructure that empowers brands to build better communities and products in Web3",
+    "website": "https://galaxy.eco/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "CyberConnect",
+    "desc": "A decentralized social graph protocol returning data ownership back to users and helping devs build powerful Web3 social apps",
+    "website": "https://cyberconnect.me/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "IPFS",
+    "desc": "A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open",
+    "website": "https://ipfs.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "Arweave",
+    "desc": "Decentralized on-chain data storage",
+    "website": "https://www.arweave.org/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "pinata.cloud",
+    "desc": "Pinata is an NFT media management service that allows users to host, manage and share files of any kind on the blockchain of their choice. As an IPFS pinning service, we focus on giving both technical and non-technical creators a fast, easy, and reliable way to share content without limits",
+    "website": "https://www.pinata.cloud/",
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Binance Wallet",
+    "desc": "",
+    "website": "https://binance-wallet.gitbook.io/binance-chain-wallet/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trust Wallet",
+    "desc": "",
+    "website": "https://trustwallet.com/",
+    "isSupportStaking": true,
+    "chains": "bsc,opbnb,greenfield"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Math Wallet",
+    "desc": "",
+    "website": "https://mathwallet.org/en-us/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "SafePal",
+    "desc": "",
+    "website": "https://safepal.io/",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/e68187b8-a869-45b9-ae70-02216a1ead9c.svg",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "TokenPocket",
+    "desc": "",
+    "website": "https://www.tokenpocket.pro/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MetaMask",
+    "desc": "",
+    "website": "https://metamask.zendesk.com/hc/en-us",
+    "isSupportStaking": false,
+    "chains": "bsc,opbnb,greenfield"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Ledger",
+    "desc": "",
+    "website": "https://www.ledger.com/",
+    "isSupportStaking": true,
+    "chains": "bsc,greenfield"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trezor",
+    "desc": "",
+    "website": "https://wallet.trezor.io",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MEW",
+    "desc": "",
+    "website": "https://www.myetherwallet.com/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "ezDeFi",
+    "desc": "",
+    "website": "https://apps.apple.com/app/lz-wallet/id1581578160",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "1inch Wallet",
+    "desc": "",
+    "website": "https://1inch.io/wallet/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Infinity Wallet (Desktop)",
+    "desc": "",
+    "website": "https://infinitywallet.io/download/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "BitKeep (App&Chrome)",
+    "desc": "",
+    "website": "https://bitkeep.com",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Coin98 Wallet (App Web Extension)",
+    "desc": "",
+    "website": "https://coin98.com/wallet",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Guarda Wallet",
+    "desc": "",
+    "website": "https://guarda.com/coins/binance-coin-wallet/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Rabby Wallet",
+    "desc": "",
+    "website": "https://rabby.io/",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Onto",
+    "desc": "",
+    "website": "https://onto.app/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Slope",
+    "desc": "",
+    "website": "https://slope.finance/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "BscScan",
+    "desc": "BscScan TokenApproval can review and revoke your token approvals for any dApp.",
+    "website": "https://bscscan.com/tokenapprovalchecker",
+    "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/6f9de740-3b6c-4196-8330-b52f9d037fc1.png",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "RevokeCash",
+    "desc": "Manage your token allowances and protect yourself from scams on 30+ chains, including Ethereum, BSC and Polygon.",
+    "website": "https://revoke.cash/",
+    "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
+    "chains": "bsc"
+  }
+]
