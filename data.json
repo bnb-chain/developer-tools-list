@@ -641,7 +641,7 @@
     "name": "Element",
     "desc": "The First Community-Driven Aggregated Marketplace",
     "website": "https://www.element.market/bsc",
-    "chains": "bsc"
+    "chains": "bsc,opbnb"
   },
   {
     "category": "Payment Gateway",
