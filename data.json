@@ -1008,5 +1008,14 @@
     "website": "https://bscscan.com/tokenapprovalchecker",
     "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/6f9de740-3b6c-4196-8330-b52f9d037fc1.png",
     "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "RevokeCash",
+    "desc": "Manage your token allowances and protect yourself from scams on 30+ chains, including Ethereum, BSC and Polygon.",
+    "website": "https://revoke.cash/",
+    "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
+    "chains": "bsc"
   }
 ]
