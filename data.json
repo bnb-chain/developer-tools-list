@@ -1023,7 +1023,7 @@
     "groupTitle": "Emma Test GroupTitle",
     "name": "TestName",
     "desc": "TestDescripton",
-    "website": "nodereal.io",
+    "website": "https://nodereal.io",
     "isSupportStaking": false,
     "logo": "https://media.istockphoto.com/id/1328381923/photo/monteroni-darbia-route-of-the-via-francigena-curved-road-siena-tuscany-italy.jpg?s=1024x1024&w=is&k=20&c=po65jblaMEeBuHbqhs0kEfmk_mdBy52k3RpDUeJFMDM=",
     "chains": "bsc,opbnb,greenfield"
