@@ -1,6 +1,14 @@
-# developer-tools-list
-Anyone can Submit a pull request, with anything from small fixes to tools you'd like to add (or remove). 
-If adding a new tool, he or she needs to add a brief description that new developers would understand in the format as follows:
+# BNB Chain Developer Tooling Landscape
+
+This landscape represents a comprehensive list of tools that developers use when developing smart contracts on the BNB Chain, including BNB Smart Chain, opBNB Chain, and Greenfield Chain. 
+
+
+## Contributing 
+Contributions are welcome! Feel free to submit a pull request, with anything from small fixes to tools you'd like to add (or remove!). To suggest any changes to the entries or the categories, modify the data.json file and open a pull request.
+
+
+** To add new tools or update existing ones, please submit the info according to the table below: **
+
 
 | Required               | Parameters       | Description                                                          | Notes                                                         |
 |------------------------|------------------|----------------------------------------------------------------------|---------------------------------------------------------------|
