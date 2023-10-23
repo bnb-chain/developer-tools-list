@@ -18,14 +18,6 @@
   {
     "category": "Analytics & Dashboards",
     "groupTitle": "",
-    "name": "Defistation",
-    "desc": "Defi dashboard",
-    "website": "https://www.defistation.io/",
-    "chains": "bsc"
-  },
-  {
-    "category": "Analytics & Dashboards",
-    "groupTitle": "",
     "name": "Bitquery",
     "desc": "GraphQL explorer of Binance Chain data",
     "website": "https://bitquery.io/",
@@ -132,7 +124,7 @@
     "groupTitle": "Node and Archive Services",
     "name": "QuickNode",
     "desc": "They make it simple to build blockchain applications and scale up as you grow. From elastic APIs to powerful tools and analytics, all at your command through a simple control panel",
-    "website": "http://quicknode.io/",
+    "website": "https://www.quicknode.com/",
     "chains": "bsc"
   },
   {
