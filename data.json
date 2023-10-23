@@ -1009,15 +1009,5 @@
     "website": "https://revoke.cash/",
     "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
     "chains": "bsc"
-  },
-  {
-    "category": "Emma Test Category",
-    "groupTitle": "Emma Test GroupTitle",
-    "name": "TestName",
-    "desc": "TestDescripton",
-    "website": "https://nodereal.io",
-    "isSupportStaking": false,
-    "logo": "https://media.istockphoto.com/id/1328381923/photo/monteroni-darbia-route-of-the-via-francigena-curved-road-siena-tuscany-italy.jpg?s=1024x1024&w=is&k=20&c=po65jblaMEeBuHbqhs0kEfmk_mdBy52k3RpDUeJFMDM=",
-    "chains": "bsc,opbnb,greenfield"
   }
 ]
