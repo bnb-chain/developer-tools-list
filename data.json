@@ -1009,5 +1009,14 @@
     "website": "https://revoke.cash/",
     "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
     "chains": "bsc"
+  },
+  {
+    "category": "Client",
+    "groupTitle": "Storage Client",
+    "name": "DCellar",
+    "desc": "Empower developers to build with BNB Greenfield Network at ease, assist in development process and team collaboration.",
+    "website": "https://dcellar.io/",
+    "logo": "https://dcellar.io/static/dcellar-web-ui/favicon.svg ",
+    "chains": "greenfield"
   }
 ]
