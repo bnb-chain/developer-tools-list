@@ -832,6 +832,16 @@
   {
     "category": "Wallets",
     "groupTitle": "",
+    "name": "Binance Web3 Wallet",
+    "desc": "",
+    "website": "https://www.binance.com/en/web3wallet",
+    "logo": "https://dex-bin.bnbstatic.com/new/static/images/dev-tools/icons/Binance%20Wallet.png?v=3",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
     "name": "Binance Wallet",
     "desc": "",
     "website": "https://binance-wallet.gitbook.io/binance-chain-wallet/",
