@@ -832,6 +832,15 @@
   {
     "category": "Wallets",
     "groupTitle": "",
+    "name": "Binance Web3 Wallet",
+    "desc": "",
+    "website": "https://www.binance.com/en/web3wallet",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
     "name": "Binance Wallet",
     "desc": "",
     "website": "https://binance-wallet.gitbook.io/binance-chain-wallet/",
