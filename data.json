@@ -42,6 +42,14 @@
   {
     "category": "Analytics & Dashboards",
     "groupTitle": "",
+    "name": "DexGuru Trading Terminal",
+    "desc": "DexGuru is a non-custodial trading terminal made for traders in the DeFi era, leveraging on-chain analytics combined with token swap execution capabilities",
+    "website": "http://dex.guru",
+    "chains": "bsc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
     "name": "Footprint Analytics",
     "desc": "Blockchain analytics",
     "website": "https://www.footprint.network/about",
@@ -85,6 +93,14 @@
     "name": "MINTSCAN",
     "desc": "A fast explorer for the Beacon Chain",
     "website": "https://binance.mintscan.io/",
+    "chains": "bsc"
+  }, 
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "DexGuru BNB Block Explorer",
+    "desc": "BNB Chain explorer",
+    "website": "https://bnb.dex.guru/",
     "chains": "bsc"
   },
   {
