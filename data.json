@@ -588,30 +588,6 @@
     "chains": "bsc"
   },
   {
-    "category": "Gaming Tools",
-    "groupTitle": "Game Fairness and openness",
-    "name": "Binance Oracle VRF",
-    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
-    "website": "https://oracle.binance.com/docs/category/vrf/",
-    "chains": "bsc,opbnb"
-  },
-  {
-    "category": "Gaming Tools",
-    "groupTitle": "Game Fairness and openness",
-    "name": "Binance Oracle VRF",
-    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
-    "website": "https://oracle.binance.com/docs/category/vrf/",
-    "chains": "bsc,opbnb"
-  },
-  {
-    "category": "Gaming Tools",
-    "groupTitle": "Game Fairness and openness",
-    "name": "Binance Oracle VRF",
-    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
-    "website": "https://oracle.binance.com/docs/category/vrf/",
-    "chains": "bsc,opbnb"
-  },
-  {
     "category": "On-Chain Game Development",
     "groupTitle": "Game Fairness and openness",
     "name": "Binance Oracle VRF",
