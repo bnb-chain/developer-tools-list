@@ -330,39 +330,6 @@
     "chains": "bsc"
   },
   {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Binance Oracle",
-    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
-    "website": "https://oracle.binance.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
-    "chains": "bsc,opbnb"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Band Protocol",
-    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
-    "website": "https://bandprotocol.com/",
-    "chains": "bsc"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Chainlink",
-    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
-    "website": "https://chain.link/",
-    "chains": "bsc"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Pyth",
-    "desc": "Pyth delivers real-time on-chain market data",
-    "website": "https://pyth.network/",
-    "chains": "bsc"
-  },
-  {
     "category": "Development",
     "groupTitle": "Solidity Code Quality",
     "name": "Solhint",
@@ -778,6 +745,300 @@
     "name": "Merit Circle",
     "desc": "An ever-evolving digital ecosystem built by a global community to ensure the future of gaming.",
     "website": "https://meritcircle.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Moonpay",
+    "desc": "Offers a fast and simple way to buy and sell cryptocurrencies..",
+    "website": "https://www.moonpay.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Transak",
+    "desc": "Offers a simple on ramps integration to allow users to buy cryptocurrencies with credit/debit cards.",
+    "website": "https://transak.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Kado",
+    "desc": "An ultimate solution for buying and selling crypto.",
+    "website": "https://kado.money/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Okse",
+    "desc": "An easy way to spend crypto assets globally.",
+    "website": "https://okse.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Binance Oracle",
+    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
+    "website": "https://oracle.binance.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Band Protocol",
+    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "website": "https://bandprotocol.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Chainlink",
+    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
+    "website": "https://chain.link/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time on-chain market data",
+    "website": "https://pyth.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "Celer cBridge",
+    "desc": "cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users, highly efficient and easy-to-use liquidity management for both cBridge node operators and Liquidity Providers who do not want to operate cBridge nodes, and new exciting developer-oriented features such as general message bridging for cases like cross-chain DEX and NFTs",
+    "website": "https://cbridge.celer.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "LayerZero",
+    "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
+    "website": "https://layerzero.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "ChainHop",
+    "desc": "ChainHop is a composable multi-chain liquidity network that facilitates multi-chain-native dApps, such as cross-chain DEX, cross-chain lending, etc. Built with the advanced multi-chain interoperability protocols, ChainHop unifies segmented liquidity across different chain and provides users & developer with a truly streamlined multi-chain experience",
+    "website": "https://chainhop.exchange/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "RhinoFi",
+    "desc": "Offers seamless self-custodial interoperability, providing control and accessibility.",
+    "website": "https://rhino.fi/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge",
+    "name": "HashFlow",
+    "desc": "Bridgeless cross-chain swaps",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
+    "website": "https://www.hashflow.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "Trezor",
+    "desc": "The safest cold storage wallets for crypto security and financial independence",
+    "website": "https://wallet.trezor.io",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "Ledger",
+    "desc": "Keeps a detailed record of every transaction in the life of a company",
+    "website": "https://www.ledger.com/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "SafePal",
+    "desc": "Securely stores your crypto assets in the most simple and easy way",
+    "website": "https://safepal.io/",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/e68187b8-a869-45b9-ae70-02216a1ead9c.svg",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "DeSig",
+    "desc": "The first Omnichain Smart Multisig wallet that streamlines treasury ops.",
+    "website": "https://desig.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "Gnosis",
+    "desc": "The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution",
+    "website": "https://gnosis-safe.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "Mpcvault",
+    "desc": "Flexible and scalable MPC custody. 8x faster transaction signing.",
+    "website": "https://mpcvault.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Rareboard",
+    "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
+    "website": "http://rareboard.com",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Venly",
+    "desc": "Wallet with marketplace and APIs",
+    "website": "https://www.venly.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "NFTrade",
+    "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
+    "website": "https://nftrade.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Element",
+    "desc": "The First Community-Driven Aggregated Marketplace",
+    "website": "https://www.element.market/bsc",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "BloxRoute",
+    "desc": "The leader in mempool services, block streaming and Defi performance",
+    "website": "https://bloxroute.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "Puissant",
+    "desc": "A mev solution of BNB Smart Chain client fork",
+    "website": "https://docs.48.club/buidl/infrastructure/bsc-validating/puissant",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "TxBoost",
+    "desc": "Boost your geth with faster and more transactions.",
+    "website": "https://bsc-explorer.blocksmith.org/dashboard/block",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analyticis",
+    "name": "TheGraph",
+    "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
+    "website": "https://thegraph.com/zh/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analyticis",
+    "name": "The Graph",
+    "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
+    "website": "https://thegraph.com/zh/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analyticis",
+    "name": "Dune",
+    "desc": "Blockchain ecosystem analytics by and for the community",
+    "website": "http://dune.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "DeFiLlama",
+    "desc": "A DeFi TVL aggregator.",
+    "website": "https://defillama.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "NodeReal",
+    "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
+    "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DexScreener",
+    "desc": "Realtime price charts and trading history on DEXes across Ethereum, BSC, etc.",
+    "website": "https://dexscreener.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DEXTools",
+    "desc": "The gateway to DEFI, real-time charts, history and all token info from blockchain.",
+    "website": "https://www.dextools.io/app/en/pairs",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DEXGuru",
+    "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
+    "website": "https://dex.guru/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Social Trading/Bot",
+    "name": "Unibot",
+    "desc": "The fastest on-chain Trading Terminal and Telegram DEX trading bot.",
+    "website": "https://unibot.app/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Aggregator",
+    "name": "Li.Fi",
+    "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
+    "website": "https://li.fi/",
     "chains": "bsc"
   },
   {
