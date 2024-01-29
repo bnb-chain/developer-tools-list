@@ -589,11 +589,220 @@
   },
   {
     "category": "Gaming Tools",
-    "groupTitle": "",
-    "name": "GameSpace",
-    "desc": "GameFi as a service",
-    "website": "https://game.space/",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Binance Oracle VRF",
+    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
+    "website": "https://oracle.binance.com/docs/category/vrf/",
     "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Gaming Tools",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Binance Oracle VRF",
+    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
+    "website": "https://oracle.binance.com/docs/category/vrf/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Gaming Tools",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Binance Oracle VRF",
+    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
+    "website": "https://oracle.binance.com/docs/category/vrf/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Binance Oracle VRF",
+    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
+    "website": "https://oracle.binance.com/docs/category/vrf/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Chainlink",
+    "desc": "A decentralized computing platform powering the verifiable web",
+    "website": "https://chain.link",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time market data for crypto, equities, FX, and commodities",
+    "website": "https://pyth.network/",
+    "chains": "bsc"
+  },
+
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Storage",
+    "name": "BNB Greenfield",
+    "desc": "Store, exchange, and own data to create a new data economy",
+    "website": "https://greenfield.bnbchain.org/en",
+    "chains": "bsc,greenfield"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Exchange/Market",
+    "name": "Element",
+    "desc": "Community-driven Aggregated Marketplace.",
+    "website": "https://element.market/opbnb?ref=bnbchain.ghost.io",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Exchange/Market",
+    "name": "vulcanforged",
+    "desc": "web3 gaming studio.",
+    "website": "https://vulcanforged.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Web3Auth",
+    "desc": "Multi-Party Computation (MPC) and Account Abstraction.",
+    "website": "https://web3auth.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Trust Wallet",
+    "desc": "Web3 wallet.",
+    "website": "https://trustwallet.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Particle Network",
+    "desc": "The Intent-Centric Modular Access Layer of Web3.",
+    "website": "https://particle.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "CyberConnect",
+    "desc": "Web3's earliest and biggest decentralized social network.",
+    "website": "https://link3.to/cyberconnect",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Biconomy",
+    "desc": "Full-stack AA toolkit.",
+    "website": "https://www.biconomy.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Stackup",
+    "desc": "Open-source platform for custom web3 experiences and smart contract wallets.",
+    "website": "https://www.stackup.sh/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Blockus",
+    "desc": "All-in-one ecosystem for Web3 gaming.",
+    "website": "https://www.blockus.gg/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Session Management",
+    "name": "Trust Wallet",
+    "desc": "Web3 wallet.",
+    "website": "https://trustwallet.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Session Management",
+    "name": "Particle Network",
+    "desc": "The Intent-Centric Modular Access Layer of Web3.",
+    "website": "https://particle.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "Colyseus",
+    "desc": "Own your authoritative game servers.",
+    "website": "https://colyseus.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "May Social",
+    "desc": "The next generation social experience.",
+    "website": "https://may.social/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "Orbofi",
+    "desc": "Create and chat with useful, fun and personalized AI agents.",
+    "website": "https://www.orbofi.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Lifty",
+    "desc": "A web3 gaming platform.",
+    "website": "https://lifty.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Web3Games",
+    "desc": "A decentralized crypto gaming ecosystem.",
+    "website": "https://web3games.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Dagora",
+    "desc": "Discover, collect and trade NFTs easily.",
+    "website": "https://dagora.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Snapshot",
+    "desc": "An off-chain voting platform.",
+    "website": "https://snapshot.org/?ref=bnbchain.ghost.io#/?filter=networks&q=opbnb",
+    "chains": "opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Xdao",
+    "desc": "An Expanding DAO Ecosystem Built for a Decentralized Future.",
+    "website": "https://www.xdao.app/204?ref=bnbchain.ghost.io",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Merit Circle",
+    "desc": "An ever-evolving digital ecosystem built by a global community to ensure the future of gaming.",
+    "website": "https://meritcircle.io/",
+    "chains": "bsc"
   },
   {
     "category": "Gasless Solutions",
