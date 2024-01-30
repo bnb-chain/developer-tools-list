@@ -586,7 +586,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Virtual Asset Storage",
     "name": "BNB Greenfield",
-    "logo": "",
+    "logo": "https://docs.bnbchain.org/greenfield-js-sdk/img/logo.svg",
     "desc": "Store, exchange, and own data to create a new data economy",
     "website": "https://greenfield.bnbchain.org/en",
     "chains": "bsc,greenfield"
