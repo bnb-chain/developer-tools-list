@@ -558,7 +558,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Fairness and openness",
     "name": "Binance Oracle VRF",
-    "logo": "",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
     "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
     "website": "https://oracle.binance.com/docs/category/vrf/",
     "chains": "bsc,opbnb"
@@ -748,7 +748,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game DAO",
     "name": "Snapshot",
-    "logo": "",
+    "logo": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F545909647-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MG4Ulnnabb2Xz3Lei9_%252Favatar-1602311890000.png%3Fgeneration%3D1602311890284612%26alt%3Dmedia",
     "desc": "An off-chain voting platform.",
     "website": "https://snapshot.org/?ref=bnbchain.ghost.io#/?filter=networks&q=opbnb",
     "chains": "opbnb"
@@ -940,7 +940,7 @@
     "category": "DeFi Development",
     "groupTitle": "Multi-sig Wallet",
     "name": "Mpcvault",
-    "logo": "",
+    "logo": "https://docs.mpcvault.com/img/mpcvault-logo.png",
     "desc": "Flexible and scalable MPC custody. 8x faster transaction signing.",
     "website": "https://mpcvault.com/",
     "chains": "bsc"
@@ -1129,7 +1129,7 @@
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
     "name": "dCellar",
-    "logo": "",
+    "logo": "https://dcellar.io/static/dcellar-web-ui/favicon.svg",
     "desc": "Empower developers to build with BNB Greenfield Network at ease, assist in development process and team collaboration.",
     "website": "https://dcellar.io/",
     "chains": "greenfield"
