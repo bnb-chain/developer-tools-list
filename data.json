@@ -558,6 +558,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Fairness and openness",
     "name": "Binance Oracle VRF",
+    "logo": "",
     "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
     "website": "https://oracle.binance.com/docs/category/vrf/",
     "chains": "bsc,opbnb"
@@ -566,6 +567,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Fairness and openness",
     "name": "Chainlink",
+    "logo": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg",
     "desc": "A decentralized computing platform powering the verifiable web",
     "website": "https://chain.link",
     "chains": "bsc"
@@ -574,6 +576,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Fairness and openness",
     "name": "Pyth",
+    "logo": "",
     "desc": "Pyth delivers real-time market data for crypto, equities, FX, and commodities",
     "website": "https://pyth.network/",
     "chains": "bsc"
@@ -583,6 +586,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Virtual Asset Storage",
     "name": "BNB Greenfield",
+    "logo": "",
     "desc": "Store, exchange, and own data to create a new data economy",
     "website": "https://greenfield.bnbchain.org/en",
     "chains": "bsc,greenfield"
@@ -591,6 +595,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Virtual Asset Exchange/Market",
     "name": "Element",
+    "logo": "https://element.market/build/img/logo-header-b718ad53.svg",
     "desc": "Community-driven Aggregated Marketplace.",
     "website": "https://element.market/opbnb?ref=bnbchain.ghost.io",
     "chains": "bsc,opbnb"
@@ -599,6 +604,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Virtual Asset Exchange/Market",
     "name": "vulcanforged",
+    "logo": "https://cdn.vulcanforged.com/web/vulcanforged/images/vf-logo.svg",
     "desc": "web3 gaming studio.",
     "website": "https://vulcanforged.com/",
     "chains": "bsc"
@@ -607,6 +613,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Web3Auth",
+    "logo": "https://web3auth.io/images/web-3-auth-logo-dark.svg",
     "desc": "Multi-Party Computation (MPC) and Account Abstraction.",
     "website": "https://web3auth.io/",
     "chains": "bsc"
@@ -615,6 +622,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Trust Wallet",
+    "logo": "",
     "desc": "Web3 wallet.",
     "website": "https://trustwallet.com/",
     "chains": "bsc,opbnb"
@@ -623,6 +631,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Particle Network",
+    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
     "desc": "The Intent-Centric Modular Access Layer of Web3.",
     "website": "https://particle.network/",
     "chains": "bsc"
@@ -631,6 +640,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "CyberConnect",
+    "logo": "https://ccgateway.infura-ipfs.io/ipfs/Qmb5YRL6hjutLUF2dw5V5WGjQCip4e1WpRo8w3iFss4cWB",
     "desc": "Web3's earliest and biggest decentralized social network.",
     "website": "https://link3.to/cyberconnect",
     "chains": "bsc"
@@ -639,6 +649,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Biconomy",
+    "logo": "",
     "desc": "Full-stack AA toolkit.",
     "website": "https://www.biconomy.io/",
     "chains": "bsc"
@@ -647,6 +658,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Stackup",
+    "logo": "https://assets-global.website-files.com/641a927b6f25b780e5303838/641a93ffff5924e14fa43df9_logotype_blue_white.png",
     "desc": "Open-source platform for custom web3 experiences and smart contract wallets.",
     "website": "https://www.stackup.sh/",
     "chains": "bsc"
@@ -655,6 +667,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Blockus",
+    "logo": "https://assets-global.website-files.com/640c077b84373ff0b2683495/6412229c5f854256743dbf7d_logo-website-light.svg",
     "desc": "All-in-one ecosystem for Web3 gaming.",
     "website": "https://www.blockus.gg/",
     "chains": "bsc"
@@ -663,6 +676,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Session Management",
     "name": "Trust Wallet",
+    "logo": "",
     "desc": "Web3 wallet.",
     "website": "https://trustwallet.com/",
     "chains": "bsc,opbnb"
@@ -671,6 +685,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Session Management",
     "name": "Particle Network",
+    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
     "desc": "The Intent-Centric Modular Access Layer of Web3.",
     "website": "https://particle.network/",
     "chains": "bsc"
@@ -679,6 +694,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
     "name": "Colyseus",
+    "logo": "https://colyseus.io/images/logos/logo-light.png",
     "desc": "Own your authoritative game servers.",
     "website": "https://colyseus.io/",
     "chains": "bsc"
@@ -687,6 +703,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
     "name": "May Social",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAlCAMAAAAHvluBAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMA4eznHPtnGAb1oIX58NzMrotuNSzY1LeBekhEJiEQDMa7spiSfU9LOzGmdFtTQRPOwF1fA8PhSgAAAbBJREFUOMu1lNmSgkAMRW+zCO6guCuoKIq7Dv//bTOdhGVqquBpzoMdbgWTm3QBxolNW/kWfhHOTds8bKrS2cg0A6cqWi8SjXEprc2MGbgoGYqogkIaZDlzFLQKcViVhH7RpqNKNRFtkpUcIXwq4lCc8H916TDzLqf02LHpYD8din2woxWIgB1H/PqhUnmNEZ17EAdJCGwyTrMhaQs4FLQjSmQrKbAtarekMuBR1NJ5SwqnALj2AkBM0bJ4ZVf2fQUwpuiSL6Cnzbp9qr0BHINEGqpBoouIJ1Xx34X42pG4E69n8RomD5zYzlO28kF6srCg+IaEzpG7/fmRpXfYgELSztRzxZdAXng89HKKrYvTvR6CI7153ALNA64q81SIma4Fsmhwou1yIla9IvEGSZxR4zzaDgKZ7zHP82UKd9z0YwxcJ8YlBObGhO5Dt0clFnQzXn096fnEjCP8YePPvG6A/2Tzbk/PaCZSumcLTcgcWs2FebJ3NBDy+k0H9VjbjPhCPemU83ao5enL5pVVb9fOhDHquOZpxgm1vCXPTFGPx3n7xp2s6Mt6RzPjmVfp7huydXGQoDUE7gAAAABJRU5ErkJggg==",
     "desc": "The next generation social experience.",
     "website": "https://may.social/",
     "chains": "bsc"
@@ -695,6 +712,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
     "name": "Orbofi",
+    "logo": "https://www.orbofi.com/images/logo.png",
     "desc": "Create and chat with useful, fun and personalized AI agents.",
     "website": "https://www.orbofi.com/",
     "chains": "bsc"
@@ -703,6 +721,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Marketplace",
     "name": "Lifty",
+    "logo": "",
     "desc": "A web3 gaming platform.",
     "website": "https://lifty.io/",
     "chains": "bsc"
@@ -711,6 +730,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Marketplace",
     "name": "Web3Games",
+    "logo": "https://web3games.com/app-logo-white.svg",
     "desc": "A decentralized crypto gaming ecosystem.",
     "website": "https://web3games.com/",
     "chains": "bsc"
@@ -719,6 +739,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game Marketplace",
     "name": "Dagora",
+    "logo": "https://dagora.xyz/_next/image?url=%2Fimages%2Flogos%2Fdagora-dark.png&w=256&q=75",
     "desc": "Discover, collect and trade NFTs easily.",
     "website": "https://dagora.xyz/",
     "chains": "bsc"
@@ -727,6 +748,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game DAO",
     "name": "Snapshot",
+    "logo": "",
     "desc": "An off-chain voting platform.",
     "website": "https://snapshot.org/?ref=bnbchain.ghost.io#/?filter=networks&q=opbnb",
     "chains": "opbnb"
@@ -735,6 +757,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game DAO",
     "name": "Xdao",
+    "logo": "",
     "desc": "An Expanding DAO Ecosystem Built for a Decentralized Future.",
     "website": "https://www.xdao.app/204?ref=bnbchain.ghost.io",
     "chains": "bsc"
@@ -743,6 +766,7 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Game DAO",
     "name": "Merit Circle",
+    "logo": "",
     "desc": "An ever-evolving digital ecosystem built by a global community to ensure the future of gaming.",
     "website": "https://meritcircle.io/",
     "chains": "bsc"
@@ -751,6 +775,7 @@
     "category": "DeFi Development",
     "groupTitle": "On/Off Ramp",
     "name": "Moonpay",
+    "logo": "https://www.moonpay.com/assets/logo-full-white.svg",
     "desc": "Offers a fast and simple way to buy and sell cryptocurrencies..",
     "website": "https://www.moonpay.com/",
     "chains": "bsc"
@@ -759,6 +784,7 @@
     "category": "DeFi Development",
     "groupTitle": "On/Off Ramp",
     "name": "Transak",
+    "logo": "https://assets.transak.com/images/website/transak-logo.svg",
     "desc": "Offers a simple on ramps integration to allow users to buy cryptocurrencies with credit/debit cards.",
     "website": "https://transak.com/",
     "chains": "bsc"
@@ -767,6 +793,7 @@
     "category": "DeFi Development",
     "groupTitle": "On/Off Ramp",
     "name": "Kado",
+    "logo": "",
     "desc": "An ultimate solution for buying and selling crypto.",
     "website": "https://kado.money/",
     "chains": "bsc"
@@ -775,6 +802,7 @@
     "category": "DeFi Development",
     "groupTitle": "On/Off Ramp",
     "name": "Okse",
+    "logo": "",
     "desc": "An easy way to spend crypto assets globally.",
     "website": "https://okse.io/",
     "chains": "bsc"
@@ -792,6 +820,7 @@
     "category": "DeFi Development",
     "groupTitle": "Oracle",
     "name": "Band Protocol",
+    "logo": "https://www.bandprotocol.com/static/images/logo.svg",
     "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
     "website": "https://bandprotocol.com/",
     "chains": "bsc"
@@ -800,6 +829,7 @@
     "category": "DeFi Development",
     "groupTitle": "Oracle",
     "name": "Chainlink",
+    "logo": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg",
     "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
     "website": "https://chain.link/",
     "chains": "bsc"
@@ -808,6 +838,7 @@
     "category": "DeFi Development",
     "groupTitle": "Oracle",
     "name": "Pyth",
+    "logo": "",
     "desc": "Pyth delivers real-time on-chain market data",
     "website": "https://pyth.network/",
     "chains": "bsc"
@@ -816,6 +847,7 @@
     "category": "DeFi Development",
     "groupTitle": "Bridge", 
     "name": "Celer cBridge",
+    "logo": "https://cbridge.celer.network/static/media/cbridgeLogo.f390be1a84b83fd0de9766ac8ca7ff80.svg",
     "desc": "cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users, highly efficient and easy-to-use liquidity management for both cBridge node operators and Liquidity Providers who do not want to operate cBridge nodes, and new exciting developer-oriented features such as general message bridging for cases like cross-chain DEX and NFTs",
     "website": "https://cbridge.celer.network/",
     "chains": "bsc"
@@ -824,6 +856,7 @@
     "category": "DeFi Development",
     "groupTitle": "Bridge", 
     "name": "LayerZero",
+    "logo": "https://layerzero.network/static/logo.svg",
     "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
     "website": "https://layerzero.network/",
     "chains": "bsc"
@@ -832,6 +865,7 @@
     "category": "DeFi Development",
     "groupTitle": "Bridge", 
     "name": "ChainHop",
+    "logo": "data:image/png;base64,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",
     "desc": "ChainHop is a composable multi-chain liquidity network that facilitates multi-chain-native dApps, such as cross-chain DEX, cross-chain lending, etc. Built with the advanced multi-chain interoperability protocols, ChainHop unifies segmented liquidity across different chain and provides users & developer with a truly streamlined multi-chain experience",
     "website": "https://chainhop.exchange/",
     "chains": "bsc"
@@ -840,6 +874,7 @@
     "category": "DeFi Development",
     "groupTitle": "Bridge", 
     "name": "RhinoFi",
+    "logo": "https://rhino.fi/wp-content/uploads/2023/10/rhino-Logo.svg",
     "desc": "Offers seamless self-custodial interoperability, providing control and accessibility.",
     "website": "https://rhino.fi/",
     "chains": "bsc,opbnb"
@@ -857,6 +892,7 @@
     "category": "DeFi Development",
     "groupTitle": "Hardware Wallet",
     "name": "Trezor",
+    "logo": "",
     "desc": "The safest cold storage wallets for crypto security and financial independence",
     "website": "https://wallet.trezor.io",
     "isSupportStaking": false,
@@ -866,6 +902,7 @@
     "category": "DeFi Development",
     "groupTitle": "Hardware Wallet",
     "name": "Ledger",
+    "logo": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
     "desc": "Keeps a detailed record of every transaction in the life of a company",
     "website": "https://www.ledger.com/",
     "isSupportStaking": true,
@@ -885,6 +922,7 @@
     "category": "DeFi Development",
     "groupTitle": "Multi-sig Wallet",
     "name": "DeSig",
+    "logo": "https://desig.io/_next/static/media/brand-in-dark.b10649f7.svg",
     "desc": "The first Omnichain Smart Multisig wallet that streamlines treasury ops.",
     "website": "https://desig.io/",
     "chains": "bsc"
@@ -893,6 +931,7 @@
     "category": "DeFi Development",
     "groupTitle": "Multi-sig Wallet",
     "name": "Gnosis",
+    "logo": "",
     "desc": "The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution",
     "website": "https://gnosis-safe.io/",
     "chains": "bsc"
@@ -901,6 +940,7 @@
     "category": "DeFi Development",
     "groupTitle": "Multi-sig Wallet",
     "name": "Mpcvault",
+    "logo": "",
     "desc": "Flexible and scalable MPC custody. 8x faster transaction signing.",
     "website": "https://mpcvault.com/",
     "chains": "bsc"
@@ -909,6 +949,7 @@
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "Rareboard",
+    "logo": "https://www.rareboard.com/assets/rareboard-logo-icon-text.png",
     "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
     "website": "http://rareboard.com",
     "chains": "bsc"
@@ -917,6 +958,7 @@
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "Venly",
+    "logo": "https://assets-global.website-files.com/6347bd6199b204194ca76e2c/636a36b6fb26920d143aca1d_logo_purple.svg",
     "desc": "Wallet with marketplace and APIs",
     "website": "https://www.venly.io/",
     "chains": "bsc"
@@ -925,6 +967,7 @@
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "NFTrade",
+    "logo": "https://nftrade.com/img/logo/logoAnimation.svg",
     "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
     "website": "https://nftrade.com/",
     "chains": "bsc"
@@ -933,6 +976,7 @@
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "Element",
+    "logo": "https://element.market/build/img/logo-header-b718ad53.svg",
     "desc": "The First Community-Driven Aggregated Marketplace",
     "website": "https://www.element.market/bsc",
     "chains": "bsc,opbnb"
@@ -941,6 +985,7 @@
     "category": "DeFi Development",
     "groupTitle": "MEV Tools",
     "name": "BloxRoute",
+    "logo": "https://bloxroute.com/wp-content/uploads/2021/10/blox-logo-t-768x184.png",
     "desc": "The leader in mempool services, block streaming and Defi performance",
     "website": "https://bloxroute.com/",
     "chains": "bsc"
@@ -949,6 +994,7 @@
     "category": "DeFi Development",
     "groupTitle": "MEV Tools",
     "name": "Puissant",
+    "logo": "https://www.gitbook.com/cdn-cgi/image/width=256,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F2809997328-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FIAcwreyitGPVQfgv7Jpe%252Flogo%252FR3CYAWueu5HFbq0VQy32%252Fkoge-4500.png%3Falt%3Dmedia%26token%3Dae1b7895-d15f-4815-9258-f48e25f2ea68",
     "desc": "A mev solution of BNB Smart Chain client fork",
     "website": "https://docs.48.club/buidl/infrastructure/bsc-validating/puissant",
     "chains": "bsc"
@@ -957,6 +1003,7 @@
     "category": "DeFi Development",
     "groupTitle": "MEV Tools",
     "name": "TxBoost",
+    "logo": "https://bsc-explorer.blocksmith.org/static/logo.8f94a0d5.png",
     "desc": "Boost your geth with faster and more transactions.",
     "website": "https://bsc-explorer.blocksmith.org/dashboard/block",
     "chains": "bsc"
@@ -965,14 +1012,7 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analyticis",
     "name": "TheGraph",
-    "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
-    "website": "https://thegraph.com/zh/",
-    "chains": "bsc"
-  },
-  {
-    "category": "DeFi Development",
-    "groupTitle": "Data Analyticis",
-    "name": "The Graph",
+    "logo": "",
     "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
     "website": "https://thegraph.com/zh/",
     "chains": "bsc"
@@ -981,6 +1021,7 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analyticis",
     "name": "Dune",
+    "logo": "https://dune.com/assets/DuneLogoCircle.svg",
     "desc": "Blockchain ecosystem analytics by and for the community",
     "website": "http://dune.com/",
     "chains": "bsc"
@@ -989,6 +1030,7 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analytics",
     "name": "DeFiLlama",
+    "logo": "https://defillama.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdefillama.c6870a18.png&w=828&q=75",
     "desc": "A DeFi TVL aggregator.",
     "website": "https://defillama.com/",
     "chains": "bsc"
@@ -997,6 +1039,7 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analytics",
     "name": "NodeReal",
+    "logo": "https://nodereal.ghost.io/content/images/2022/04/Frame-5.svg",
     "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
     "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
     "chains": "bsc"
@@ -1005,6 +1048,7 @@
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DexScreener",
+    "logo": "",
     "desc": "Realtime price charts and trading history on DEXes across Ethereum, BSC, etc.",
     "website": "https://dexscreener.com/",
     "chains": "bsc"
@@ -1013,6 +1057,7 @@
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DEXTools",
+    "logo": "https://www.dextools.io/app/assets/img/logo/dextools_logo.png",
     "desc": "The gateway to DEFI, real-time charts, history and all token info from blockchain.",
     "website": "https://www.dextools.io/app/en/pairs",
     "chains": "bsc"
@@ -1021,6 +1066,7 @@
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DEXGuru",
+    "logo": "",
     "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
     "website": "https://dex.guru/",
     "chains": "bsc"
@@ -1029,6 +1075,7 @@
     "category": "DeFi Development",
     "groupTitle": "Social Trading/Bot",
     "name": "Unibot",
+    "logo": "https://unibot.app/static/media/unibotXLogo.cb9edc0aeb1cc63c64c4.png",
     "desc": "The fastest on-chain Trading Terminal and Telegram DEX trading bot.",
     "website": "https://unibot.app/",
     "chains": "bsc"
@@ -1037,6 +1084,7 @@
     "category": "DeFi Development",
     "groupTitle": "Aggregator",
     "name": "Li.Fi",
+    "logo": "",
     "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
     "website": "https://li.fi/",
     "chains": "bsc"
@@ -1045,6 +1093,7 @@
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
     "name": "Glows.Ai",
+    "logo": "https://glows.ai/images/logo.svg",
     "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
     "website": "https://glows.ai/",
     "chains": "greenfield"
@@ -1053,6 +1102,7 @@
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
     "name": "Fetch.Ai",
+    "logo": "https://fetch.ai/Images/logo/fetch-logo.svg",
     "desc": "Make your services discoverable on the Fetch.ai Platform with the first open network for AI Agents.",
     "website": "https://fetch.ai/",
     "chains": "greenfield"
@@ -1061,6 +1111,7 @@
     "category": "AI Toolings",
     "groupTitle": "Data Management And Processing",
     "name": "Movespace",
+    "logo": "https://www.movespace.xyz/img/logo.png",
     "desc": "For Search, AIGC, Data Marketplace, and Apps.",
     "website": "https://www.movespace.xyz/",
     "chains": "greenfield"
@@ -1069,14 +1120,16 @@
     "category": "AI Toolings",
     "groupTitle": "Data Management And Processing",
     "name": "Glacier.io",
+    "logo": "https://www.glacier.io/assets/nav-logo-dark.44660058.png",
     "desc": "A L2 rollup network that empowers decentralized applications (DApp) to build on decentralized databases (DDB).",
     "website": "https://www.glacier.io/",
-    "chains": "greenfield"
+    "chains": "bsc,greenfield"
   },
   {
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
     "name": "dCellar",
+    "logo": "",
     "desc": "Empower developers to build with BNB Greenfield Network at ease, assist in development process and team collaboration.",
     "website": "https://dcellar.io/",
     "chains": "greenfield"
@@ -1085,6 +1138,7 @@
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
     "name": "AIOZ",
+    "logo": "",
     "desc": "Empowers web3 builders with a one-click integration of dApps.",
     "website": "https://aioz.network/",
     "chains": "greenfield"
@@ -1093,6 +1147,7 @@
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
     "name": "4Everland",
+    "logo": "",
     "desc": "A Web 3.0 cloud computing platform that integrates storage, computing, and network as its core capabilities.",
     "website": "https://www.4everland.org/",
     "chains": "greenfield"
@@ -1101,6 +1156,7 @@
     "category": "AI Toolings",
     "groupTitle": "Codebase Marketplace",
     "name": "CodexField",
+    "logo": "https://codexfield.com/_next/static/media/logo.ce70a327.svg",
     "desc": "Provides a code management tool called gitd, fully compatible with Git usage.",
     "website": "https://codexfield.com/",
     "chains": "greenfield"
@@ -1109,6 +1165,7 @@
     "category": "AI Toolings",
     "groupTitle": "Cloud Computing",
     "name": "Deeper.network",
+    "logo": "https://www.deeper.network/_next/image?url=%2Flogo.png&w=256&q=75",
     "desc": "Combines network security, blockchain technology and a sharing economy to build Web 3.0 infrastructure and ecosystem.",
     "website": "https://www.deeper.network/",
     "chains": "greenfield"
@@ -1117,6 +1174,7 @@
     "category": "AI Toolings",
     "groupTitle": "Cloud Computing",
     "name": "Aleph.im",
+    "logo": "",
     "desc": "Is focused on enhancing user experience, scalability, and security.",
     "website": "https://aleph.im/",
     "chains": "greenfield"
