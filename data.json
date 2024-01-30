@@ -1042,6 +1042,86 @@
     "chains": "bsc"
   },
   {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Glows.Ai",
+    "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
+    "website": "https://glows.ai/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Fetch.Ai",
+    "desc": "Make your services discoverable on the Fetch.ai Platform with the first open network for AI Agents.",
+    "website": "https://fetch.ai/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Data Management And Processing",
+    "name": "Movespace",
+    "desc": "For Search, AIGC, Data Marketplace, and Apps.",
+    "website": "https://www.movespace.xyz/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Data Management And Processing",
+    "name": "Glacier.io",
+    "desc": "A L2 rollup network that empowers decentralized applications (DApp) to build on decentralized databases (DDB).",
+    "website": "https://www.glacier.io/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "dCellar",
+    "desc": "Empower developers to build with BNB Greenfield Network at ease, assist in development process and team collaboration.",
+    "website": "https://dcellar.io/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "AIOZ",
+    "desc": "Empowers web3 builders with a one-click integration of dApps.",
+    "website": "https://aioz.network/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "4Everland",
+    "desc": "A Web 3.0 cloud computing platform that integrates storage, computing, and network as its core capabilities.",
+    "website": "https://www.4everland.org/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Codebase Marketplace",
+    "name": "CodexField",
+    "desc": "Provides a code management tool called gitd, fully compatible with Git usage.",
+    "website": "https://codexfield.com/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Cloud Computing",
+    "name": "Deeper.network",
+    "desc": "Combines network security, blockchain technology and a sharing economy to build Web 3.0 infrastructure and ecosystem.",
+    "website": "https://www.deeper.network/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Cloud Computing",
+    "name": "Aleph.im",
+    "desc": "Is focused on enhancing user experience, scalability, and security.",
+    "website": "https://aleph.im/",
+    "chains": "greenfield"
+  },
+  {
     "category": "Gasless Solutions",
     "groupTitle": "",
     "name": "Biconomy",
