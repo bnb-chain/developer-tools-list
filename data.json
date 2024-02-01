@@ -330,39 +330,6 @@
     "chains": "bsc"
   },
   {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Binance Oracle",
-    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
-    "website": "https://oracle.binance.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
-    "chains": "bsc,opbnb"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Band Protocol",
-    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
-    "website": "https://bandprotocol.com/",
-    "chains": "bsc"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Chainlink",
-    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
-    "website": "https://chain.link/",
-    "chains": "bsc"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Pyth",
-    "desc": "Pyth delivers real-time on-chain market data",
-    "website": "https://pyth.network/",
-    "chains": "bsc"
-  },
-  {
     "category": "Development",
     "groupTitle": "Solidity Code Quality",
     "name": "Solhint",
@@ -576,7 +543,6 @@
     "name": "Particle Network",
     "desc": "Particle Network is a mobile app data and development platform for Web3.0. Mobile-first, data driven, composable.",
     "website": "https://particle.network/",
-    "logo": "https://particle.network/favicons/favicon.ico",
     "chains": "bsc,opbnb"
   },
   {
@@ -588,12 +554,624 @@
     "chains": "bsc"
   },
   {
-    "category": "Gaming Tools",
-    "groupTitle": "",
-    "name": "GameSpace",
-    "desc": "GameFi as a service",
-    "website": "https://game.space/",
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Binance Oracle VRF",
+    "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
+    "website": "https://oracle.binance.com/docs/category/vrf/",
     "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Chainlink",
+    "logo": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg",
+    "desc": "A decentralized computing platform powering the verifiable web",
+    "website": "https://chain.link",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Fairness and openness",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time market data for crypto, equities, FX, and commodities",
+    "website": "https://pyth.network/",
+    "chains": "bsc"
+  },
+
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Storage",
+    "name": "BNB Greenfield",
+    "logo": "https://docs.bnbchain.org/greenfield-js-sdk/img/logo.svg",
+    "desc": "Store, exchange, and own data to create a new data economy",
+    "website": "https://greenfield.bnbchain.org/en",
+    "chains": "bsc,greenfield"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Exchange/Market",
+    "name": "Element",
+    "logo": "https://element.market/build/img/logo-header-b718ad53.svg",
+    "desc": "Community-driven Aggregated Marketplace.",
+    "website": "https://element.market/opbnb?ref=bnbchain.ghost.io",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Virtual Asset Exchange/Market",
+    "name": "vulcanforged",
+    "logo": "https://cdn.vulcanforged.com/web/vulcanforged/images/vf-logo.svg",
+    "desc": "web3 gaming studio.",
+    "website": "https://vulcanforged.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Web3Auth",
+    "logo": "https://web3auth.io/images/web-3-auth-logo-dark.svg",
+    "desc": "Multi-Party Computation (MPC) and Account Abstraction.",
+    "website": "https://web3auth.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Trust Wallet",
+    "logo": "",
+    "desc": "Web3 wallet.",
+    "website": "https://trustwallet.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Particle Network",
+    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
+    "desc": "The Intent-Centric Modular Access Layer of Web3.",
+    "website": "https://particle.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "CyberConnect",
+    "logo": "https://ccgateway.infura-ipfs.io/ipfs/Qmb5YRL6hjutLUF2dw5V5WGjQCip4e1WpRo8w3iFss4cWB",
+    "desc": "Web3's earliest and biggest decentralized social network.",
+    "website": "https://link3.to/cyberconnect",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Biconomy",
+    "logo": "",
+    "desc": "Full-stack AA toolkit.",
+    "website": "https://www.biconomy.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Stackup",
+    "logo": "https://assets-global.website-files.com/641a927b6f25b780e5303838/641a93ffff5924e14fa43df9_logotype_blue_white.png",
+    "desc": "Open-source platform for custom web3 experiences and smart contract wallets.",
+    "website": "https://www.stackup.sh/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
+    "name": "Blockus",
+    "logo": "https://assets-global.website-files.com/640c077b84373ff0b2683495/6412229c5f854256743dbf7d_logo-website-light.svg",
+    "desc": "All-in-one ecosystem for Web3 gaming.",
+    "website": "https://www.blockus.gg/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Session Management",
+    "name": "Trust Wallet",
+    "logo": "",
+    "desc": "Web3 wallet.",
+    "website": "https://trustwallet.com/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Session Management",
+    "name": "Particle Network",
+    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
+    "desc": "The Intent-Centric Modular Access Layer of Web3.",
+    "website": "https://particle.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "Colyseus",
+    "logo": "https://colyseus.io/images/logos/logo-light.png",
+    "desc": "Own your authoritative game servers.",
+    "website": "https://colyseus.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "May Social",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAlCAMAAAAHvluBAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMA4eznHPtnGAb1oIX58NzMrotuNSzY1LeBekhEJiEQDMa7spiSfU9LOzGmdFtTQRPOwF1fA8PhSgAAAbBJREFUOMu1lNmSgkAMRW+zCO6guCuoKIq7Dv//bTOdhGVqquBpzoMdbgWTm3QBxolNW/kWfhHOTds8bKrS2cg0A6cqWi8SjXEprc2MGbgoGYqogkIaZDlzFLQKcViVhH7RpqNKNRFtkpUcIXwq4lCc8H916TDzLqf02LHpYD8din2woxWIgB1H/PqhUnmNEZ17EAdJCGwyTrMhaQs4FLQjSmQrKbAtarekMuBR1NJ5SwqnALj2AkBM0bJ4ZVf2fQUwpuiSL6Cnzbp9qr0BHINEGqpBoouIJ1Xx34X42pG4E69n8RomD5zYzlO28kF6srCg+IaEzpG7/fmRpXfYgELSztRzxZdAXng89HKKrYvTvR6CI7153ALNA64q81SIma4Fsmhwou1yIla9IvEGSZxR4zzaDgKZ7zHP82UKd9z0YwxcJ8YlBObGhO5Dt0clFnQzXn096fnEjCP8YePPvG6A/2Tzbk/PaCZSumcLTcgcWs2FebJ3NBDy+k0H9VjbjPhCPemU83ao5enL5pVVb9fOhDHquOZpxgm1vCXPTFGPx3n7xp2s6Mt6RzPjmVfp7huydXGQoDUE7gAAAABJRU5ErkJggg==",
+    "desc": "The next generation social experience.",
+    "website": "https://may.social/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "Orbofi",
+    "logo": "https://www.orbofi.com/images/logo.png",
+    "desc": "Create and chat with useful, fun and personalized AI agents.",
+    "website": "https://www.orbofi.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Lifty",
+    "logo": "",
+    "desc": "A web3 gaming platform.",
+    "website": "https://lifty.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Web3Games",
+    "logo": "https://web3games.com/app-logo-white.svg",
+    "desc": "A decentralized crypto gaming ecosystem.",
+    "website": "https://web3games.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Dagora",
+    "logo": "https://dagora.xyz/_next/image?url=%2Fimages%2Flogos%2Fdagora-dark.png&w=256&q=75",
+    "desc": "Discover, collect and trade NFTs easily.",
+    "website": "https://dagora.xyz/",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Snapshot",
+    "logo": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F545909647-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MG4Ulnnabb2Xz3Lei9_%252Favatar-1602311890000.png%3Fgeneration%3D1602311890284612%26alt%3Dmedia",
+    "desc": "An off-chain voting platform.",
+    "website": "https://snapshot.org/?ref=bnbchain.ghost.io#/?filter=networks&q=opbnb",
+    "chains": "opbnb"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Xdao",
+    "logo": "",
+    "desc": "An Expanding DAO Ecosystem Built for a Decentralized Future.",
+    "website": "https://www.xdao.app/204?ref=bnbchain.ghost.io",
+    "chains": "bsc"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game DAO",
+    "name": "Merit Circle",
+    "logo": "",
+    "desc": "An ever-evolving digital ecosystem built by a global community to ensure the future of gaming.",
+    "website": "https://meritcircle.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Moonpay",
+    "desc": "Offers a fast and simple way to buy and sell cryptocurrencies..",
+    "website": "https://www.moonpay.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Transak",
+    "logo": "https://assets.transak.com/images/website/transak-logo.svg",
+    "desc": "Offers a simple on ramps integration to allow users to buy cryptocurrencies with credit/debit cards.",
+    "website": "https://transak.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Kado",
+    "logo": "",
+    "desc": "An ultimate solution for buying and selling crypto.",
+    "website": "https://kado.money/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "On/Off Ramp",
+    "name": "Okse",
+    "logo": "",
+    "desc": "An easy way to spend crypto assets globally.",
+    "website": "https://okse.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Binance Oracle",
+    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
+    "website": "https://oracle.binance.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Band Protocol",
+    "logo": "https://www.bandprotocol.com/static/images/logo.svg",
+    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "website": "https://bandprotocol.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Chainlink",
+    "logo": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg",
+    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
+    "website": "https://chain.link/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time on-chain market data",
+    "website": "https://pyth.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "Celer cBridge",
+    "logo": "https://cbridge.celer.network/static/media/cbridgeLogo.f390be1a84b83fd0de9766ac8ca7ff80.svg",
+    "desc": "cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users, highly efficient and easy-to-use liquidity management for both cBridge node operators and Liquidity Providers who do not want to operate cBridge nodes, and new exciting developer-oriented features such as general message bridging for cases like cross-chain DEX and NFTs",
+    "website": "https://cbridge.celer.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "LayerZero",
+    "logo": "https://layerzero.network/static/logo.svg",
+    "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
+    "website": "https://layerzero.network/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "ChainHop",
+    "desc": "ChainHop is a composable multi-chain liquidity network that facilitates multi-chain-native dApps, such as cross-chain DEX, cross-chain lending, etc. Built with the advanced multi-chain interoperability protocols, ChainHop unifies segmented liquidity across different chain and provides users & developer with a truly streamlined multi-chain experience",
+    "website": "https://chainhop.exchange/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge", 
+    "name": "RhinoFi",
+    "logo": "https://rhino.fi/wp-content/uploads/2023/10/rhino-Logo.svg",
+    "desc": "Offers seamless self-custodial interoperability, providing control and accessibility.",
+    "website": "https://rhino.fi/",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Bridge",
+    "name": "HashFlow",
+    "desc": "Bridgeless cross-chain swaps",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
+    "website": "https://www.hashflow.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "Trezor",
+    "logo": "",
+    "desc": "The safest cold storage wallets for crypto security and financial independence",
+    "website": "https://wallet.trezor.io",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "Ledger",
+    "logo": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
+    "desc": "Keeps a detailed record of every transaction in the life of a company",
+    "website": "https://www.ledger.com/",
+    "isSupportStaking": true,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Hardware Wallet",
+    "name": "SafePal",
+    "desc": "Securely stores your crypto assets in the most simple and easy way",
+    "website": "https://safepal.io/",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/e68187b8-a869-45b9-ae70-02216a1ead9c.svg",
+    "isSupportStaking": false,
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "DeSig",
+    "logo": "https://desig.io/_next/static/media/brand-in-dark.b10649f7.svg",
+    "desc": "The first Omnichain Smart Multisig wallet that streamlines treasury ops.",
+    "website": "https://desig.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "Gnosis",
+    "logo": "",
+    "desc": "The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution",
+    "website": "https://gnosis-safe.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "Mpcvault",
+    "logo": "https://docs.mpcvault.com/img/mpcvault-logo.png",
+    "desc": "Flexible and scalable MPC custody. 8x faster transaction signing.",
+    "website": "https://mpcvault.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Rareboard",
+    "logo": "https://www.rareboard.com/assets/rareboard-logo-icon-text.png",
+    "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
+    "website": "http://rareboard.com",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Venly",
+    "logo": "https://assets-global.website-files.com/6347bd6199b204194ca76e2c/636a36b6fb26920d143aca1d_logo_purple.svg",
+    "desc": "Wallet with marketplace and APIs",
+    "website": "https://www.venly.io/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "NFTrade",
+    "logo": "https://nftrade.com/img/logo/logoAnimation.svg",
+    "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
+    "website": "https://nftrade.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Element",
+    "logo": "https://element.market/build/img/logo-header-b718ad53.svg",
+    "desc": "The First Community-Driven Aggregated Marketplace",
+    "website": "https://www.element.market/bsc",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "BloxRoute",
+    "logo": "https://bloxroute.com/wp-content/uploads/2021/10/blox-logo-t-768x184.png",
+    "desc": "The leader in mempool services, block streaming and Defi performance",
+    "website": "https://bloxroute.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "Puissant",
+    "logo": "https://www.gitbook.com/cdn-cgi/image/width=256,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F2809997328-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FIAcwreyitGPVQfgv7Jpe%252Flogo%252FR3CYAWueu5HFbq0VQy32%252Fkoge-4500.png%3Falt%3Dmedia%26token%3Dae1b7895-d15f-4815-9258-f48e25f2ea68",
+    "desc": "A mev solution of BNB Smart Chain client fork",
+    "website": "https://docs.48.club/buidl/infrastructure/bsc-validating/puissant",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "TxBoost",
+    "logo": "https://bsc-explorer.blocksmith.org/static/logo.8f94a0d5.png",
+    "desc": "Boost your geth with faster and more transactions.",
+    "website": "https://bsc-explorer.blocksmith.org/dashboard/block",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analyticis",
+    "name": "TheGraph",
+    "logo": "",
+    "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
+    "website": "https://thegraph.com/zh/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analyticis",
+    "name": "Dune",
+    "logo": "https://dune.com/assets/DuneLogoCircle.svg",
+    "desc": "Blockchain ecosystem analytics by and for the community",
+    "website": "http://dune.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "DeFiLlama",
+    "logo": "https://defillama.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdefillama.c6870a18.png&w=828&q=75",
+    "desc": "A DeFi TVL aggregator.",
+    "website": "https://defillama.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "NodeReal",
+    "logo": "https://nodereal.ghost.io/content/images/2022/04/Frame-5.svg",
+    "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
+    "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DexScreener",
+    "logo": "",
+    "desc": "Realtime price charts and trading history on DEXes across Ethereum, BSC, etc.",
+    "website": "https://dexscreener.com/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DEXTools",
+    "logo": "https://www.dextools.io/app/assets/img/logo/dextools_logo.png",
+    "desc": "The gateway to DEFI, real-time charts, history and all token info from blockchain.",
+    "website": "https://www.dextools.io/app/en/pairs",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "DEXGuru",
+    "logo": "",
+    "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
+    "website": "https://dex.guru/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Social Trading/Bot",
+    "name": "Unibot",
+    "logo": "https://unibot.app/static/media/unibotXLogo.cb9edc0aeb1cc63c64c4.png",
+    "desc": "The fastest on-chain Trading Terminal and Telegram DEX trading bot.",
+    "website": "https://unibot.app/",
+    "chains": "bsc"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Aggregator",
+    "name": "Li.Fi",
+    "logo": "",
+    "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
+    "website": "https://li.fi/",
+    "chains": "bsc"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Glows.Ai",
+    "logo": "https://glows.ai/images/logo.svg",
+    "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
+    "website": "https://glows.ai/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Fetch.Ai",
+    "logo": "https://fetch.ai/Images/logo/fetch-logo.svg",
+    "desc": "Make your services discoverable on the Fetch.ai Platform with the first open network for AI Agents.",
+    "website": "https://fetch.ai/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Data Management And Processing",
+    "name": "Movespace",
+    "logo": "https://www.movespace.xyz/img/logo.png",
+    "desc": "For Search, AIGC, Data Marketplace, and Apps.",
+    "website": "https://www.movespace.xyz/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Data Management And Processing",
+    "name": "Glacier.io",
+    "logo": "https://www.glacier.io/assets/nav-logo-dark.44660058.png",
+    "desc": "A L2 rollup network that empowers decentralized applications (DApp) to build on decentralized databases (DDB).",
+    "website": "https://www.glacier.io/",
+    "chains": "bsc,greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "dCellar",
+    "logo": "https://dcellar.io/static/dcellar-web-ui/favicon.svg",
+    "desc": "Empower developers to build with BNB Greenfield Network at ease, assist in development process and team collaboration.",
+    "website": "https://dcellar.io/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "AIOZ",
+    "logo": "",
+    "desc": "Empowers web3 builders with a one-click integration of dApps.",
+    "website": "https://aioz.network/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "4Everland",
+    "logo": "",
+    "desc": "A Web 3.0 cloud computing platform that integrates storage, computing, and network as its core capabilities.",
+    "website": "https://www.4everland.org/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Codebase Marketplace",
+    "name": "CodexField",
+    "logo": "https://codexfield.com/_next/static/media/logo.ce70a327.svg",
+    "desc": "Provides a code management tool called gitd, fully compatible with Git usage.",
+    "website": "https://codexfield.com/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Cloud Computing",
+    "name": "Deeper.network",
+    "logo": "https://www.deeper.network/_next/image?url=%2Flogo.png&w=256&q=75",
+    "desc": "Combines network security, blockchain technology and a sharing economy to build Web 3.0 infrastructure and ecosystem.",
+    "website": "https://www.deeper.network/",
+    "chains": "greenfield"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Cloud Computing",
+    "name": "Aleph.im",
+    "logo": "",
+    "desc": "Is focused on enhancing user experience, scalability, and security.",
+    "website": "https://aleph.im/",
+    "chains": "greenfield"
   },
   {
     "category": "Gasless Solutions",
