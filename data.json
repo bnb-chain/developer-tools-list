@@ -559,6 +559,7 @@
     "name": "Binance Oracle VRF",
     "desc": "A provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or availability.",
     "website": "https://oracle.binance.com/docs/category/vrf/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3",
     "chains": "bsc,opbnb"
   },
   {
@@ -628,7 +629,6 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Particle Network",
-    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
     "desc": "The Intent-Centric Modular Access Layer of Web3.",
     "website": "https://particle.network/",
     "chains": "bsc"
@@ -682,7 +682,6 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Session Management",
     "name": "Particle Network",
-    "logo": "https://particle.network/_next/static/media/logo-top.da3dab6b.png",
     "desc": "The Intent-Centric Modular Access Layer of Web3.",
     "website": "https://particle.network/",
     "chains": "bsc"
@@ -896,7 +895,6 @@
     "category": "DeFi Development",
     "groupTitle": "Hardware Wallet",
     "name": "Ledger",
-    "logo": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
     "desc": "Keeps a detailed record of every transaction in the life of a company",
     "website": "https://www.ledger.com/",
     "isSupportStaking": true,
@@ -943,7 +941,6 @@
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "Rareboard",
-    "logo": "https://www.rareboard.com/assets/rareboard-logo-icon-text.png",
     "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
     "website": "http://rareboard.com",
     "chains": "bsc"
@@ -979,7 +976,6 @@
     "category": "DeFi Development",
     "groupTitle": "MEV Tools",
     "name": "BloxRoute",
-    "logo": "https://bloxroute.com/wp-content/uploads/2021/10/blox-logo-t-768x184.png",
     "desc": "The leader in mempool services, block streaming and Defi performance",
     "website": "https://bloxroute.com/",
     "chains": "bsc"
@@ -1033,7 +1029,6 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analytics",
     "name": "NodeReal",
-    "logo": "https://nodereal.ghost.io/content/images/2022/04/Frame-5.svg",
     "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
     "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
     "chains": "bsc"
@@ -1060,7 +1055,7 @@
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DEXGuru",
-    "logo": "",
+    "logo": "https://dex-bin.bnbstatic.com/new/static/images/dev-tools/icons/DexGuru.png?v=3",
     "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
     "website": "https://dex.guru/",
     "chains": "bsc"
@@ -1069,7 +1064,6 @@
     "category": "DeFi Development",
     "groupTitle": "Social Trading/Bot",
     "name": "Unibot",
-    "logo": "https://unibot.app/static/media/unibotXLogo.cb9edc0aeb1cc63c64c4.png",
     "desc": "The fastest on-chain Trading Terminal and Telegram DEX trading bot.",
     "website": "https://unibot.app/",
     "chains": "bsc"
