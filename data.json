@@ -1600,5 +1600,23 @@
     "website": "https://dcellar.io/",
     "logo": "https://dcellar.io/static/dcellar-web-ui/favicon.svg ",
     "chains": "greenfield"
+  },
+  {
+    "category": "UIKit",
+    "groupTitle": "",
+    "name": "Greenfield Upload UIKit",
+    "desc": "Greenfield Upload UIKit is fully open sourced, developers can easily integrate into their WebUI dApps",
+    "website": "https://github.com/node-real/greenfield-toolkit/tree/main/packages/uploadkit",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/256f3d8a-7225-4da9-88fc-650ed6474b85.svg",
+    "chains": "greenfield"
+  },
+  {
+    "category": "File Management",
+    "groupTitle": "",
+    "name": "Greenfield Bundle Service",
+    "desc": "Greenfield Bundle Service is designed to bundle small files together before uploading, helping developers reduce costs.",
+    "website": "https://github.com/node-real/greenfield-bundle-service",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/941e65e3-907b-4291-80d3-4041a1c9d273.svg",
+    "chains": "greenfield"
   }
 ]
