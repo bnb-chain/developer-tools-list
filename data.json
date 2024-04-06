@@ -1797,5 +1797,15 @@
     "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/941e65e3-907b-4291-80d3-4041a1c9d273.svg",
     "chains": "greenfield",
     "tags": "AI,DeSoc"
-  }
+  },
+  {
+ "category": "Blockchain Access",
+ "groupTitle": "Data APIs Real-time and Indexed",
+ "name": "Bitquery",
+ "desc": "Real-time and historical data for BNB chain and opBnB",
+ "website": "https://bitquery.io/",
+ "logo": "https://bitquery.io/favicon/logo.svg",
+ "chains": "bsc, opBnb, BnB",
+ "tags": "Data, Infra, API"
+ }
 ]
