@@ -1107,7 +1107,7 @@
   },
   {
     "category": "DeFi Development",
-    "groupTitle": "Data Analyticis",
+    "groupTitle": "Data Analytics",
     "name": "TheGraph",
     "logo": "",
     "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
@@ -1117,7 +1117,7 @@
   },
   {
     "category": "DeFi Development",
-    "groupTitle": "Data Analyticis",
+    "groupTitle": "Data Analytics",
     "name": "Dune",
     "logo": "https://dune.com/assets/DuneLogoCircle.svg",
     "desc": "Blockchain ecosystem analytics by and for the community",
@@ -1797,14 +1797,5 @@
     "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/941e65e3-907b-4291-80d3-4041a1c9d273.svg",
     "chains": "greenfield",
     "tags": "AI,DeSoc"
-  },
-  {
-    "category": "Analytics & Dashboards",
-    "groupTitle": "Data Analytics",
-    "name": "NodeReal",
-    "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
-    "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
-    "chains": "bsc,opbnb",
-    "tags": "Defi,AI"
   }
 ]
