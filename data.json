@@ -1797,5 +1797,14 @@
     "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/941e65e3-907b-4291-80d3-4041a1c9d273.svg",
     "chains": "greenfield",
     "tags": "AI,DeSoc"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "Data Analytics",
+    "name": "NodeReal",
+    "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
+    "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
+    "chains": "bsc,opbnb",
+    "tags": "Defi,AI"
   }
 ]
