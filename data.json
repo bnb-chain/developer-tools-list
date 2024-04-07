@@ -1141,7 +1141,7 @@
     "name": "NodeReal",
     "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
     "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
-    "chains": "bsc,opbnb",
+    "chains": "bsc",
     "tags": "Defi"
   },
   {
@@ -1804,7 +1804,7 @@
     "name": "NodeReal",
     "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
     "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
-    "chains": "bsc",
+    "chains": "bsc,opbnb",
     "tags": "Defi,AI"
   }
 ]
