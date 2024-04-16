@@ -1797,5 +1797,15 @@
     "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/941e65e3-907b-4291-80d3-4041a1c9d273.svg",
     "chains": "greenfield",
     "tags": "AI,DeSoc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Anima",
+    "desc": "Anima is a dID protocol reshaping how users manage online identity and reputation. Our reputation system is designed to build Sybil resistance. It uses a privacy-friendly Proof of Personhood solution and SBTs on BNB to enable protocols to engage with genuine users for governance or airdrop events.",
+    "logo": "https://reputation-bnb.anima.io/img/anima-white-icon.svg",
+    "website": "http://reputation-bnb.anima.io/",
+    "chains": "bsc",
+    "tags": "AI,Defi,Game,DeSoc"
   }
 ]
