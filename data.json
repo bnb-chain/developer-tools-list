@@ -1196,10 +1196,10 @@
   {
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
-    "name": "Glows.Ai",
+    "name": "Aggregata.xyz",
     "logo": "https://aggregata.xyz/logo.svg",
     "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
-    "website": "https://glows.ai/",
+    "website": "https://aggregata.xyz/",
     "chains": "greenfield",
     "tags": "AI"
   },
