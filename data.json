@@ -1196,10 +1196,10 @@
   {
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
-    "name": "Glows.Ai",
-    "logo": "https://glows.ai/images/logo.svg",
+    "name": "Aggregata.xyz",
+    "logo": "https://aggregata.xyz/logo.svg",
     "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
-    "website": "https://glows.ai/",
+    "website": "https://aggregata.xyz/",
     "chains": "greenfield",
     "tags": "AI"
   },
@@ -1246,16 +1246,6 @@
   {
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
-    "name": "AIOZ",
-    "logo": "",
-    "desc": "Empowers web3 builders with a one-click integration of dApps.",
-    "website": "https://aioz.network/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Infra Service",
     "name": "4Everland",
     "logo": "",
     "desc": "A Web 3.0 cloud computing platform that integrates storage, computing, and network as its core capabilities.",
@@ -1267,29 +1257,9 @@
     "category": "AI Toolings",
     "groupTitle": "Codebase Marketplace",
     "name": "CodexField",
-    "logo": "https://codexfield.com/_next/static/media/logo.ce70a327.svg",
+    "logo": "https://codexfield.com/favicon.png",
     "desc": "Provides a code management tool called gitd, fully compatible with Git usage.",
     "website": "https://codexfield.com/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Cloud Computing",
-    "name": "Deeper.network",
-    "logo": "https://www.deeper.network/_next/image?url=%2Flogo.png&w=256&q=75",
-    "desc": "Combines network security, blockchain technology and a sharing economy to build Web 3.0 infrastructure and ecosystem.",
-    "website": "https://www.deeper.network/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Cloud Computing",
-    "name": "Aleph.im",
-    "logo": "",
-    "desc": "Is focused on enhancing user experience, scalability, and security.",
-    "website": "https://aleph.im/",
     "chains": "greenfield",
     "tags": "AI"
   },
