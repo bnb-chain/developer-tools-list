@@ -74,6 +74,16 @@
   {
     "category": "Blockchain Access",
     "groupTitle": "Block Explorers",
+    "name": "Binplorer",
+    "logo": "https://binplorer.com/images/binplorer/binplorer-icon-white-bg-40x40.png",
+    "desc": "Blockchain explorer for the BNB Chain. Historical balances in USD for any addresses, API where you can get all tokens at any address.",
+    "website": "https://binplorer.com",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
     "name": "BSCTrace",
     "desc": "Blockchain explorer of BNB Chain from NodeReal",
     "website": "https://bsctrace.com/",
