@@ -1777,5 +1777,16 @@
     "website": "http://reputation-bnb.anima.io/",
     "chains": "bsc",
     "tags": "AI,Defi,Game,DeSoc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "ZNS Connect",
+    "desc": "ZNS Connect is a decentralized naming system designed to simplify Web3 by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.",
+    "logo": "https://v3.znsconnect.io/favicon.ico",
+    "website": "https://www.znsconnect.io/",
+    "groupTitle": "",
+    "chains": "bsc",
+    "tags": "Identity,Socials,Defi"
   }
 ]
