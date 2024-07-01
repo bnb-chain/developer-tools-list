@@ -1777,5 +1777,15 @@
     "website": "http://reputation-bnb.anima.io/",
     "chains": "bsc",
     "tags": "AI,Defi,Game,DeSoc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Reclaim Protocol",
+    "desc": "SDK to learn about your users' identity, credentials and reputation",
+    "website": "https://www.reclaimprotocol.org/",
+    "logo": "https://drive.google.com/file/d/1MS9mixEUI8dKs8VYJVcVOJjjcUA-eQKf/view?usp=sharing",
+    "chains": "bsc",
+    "tags": "Defi,Game,DeSoc"
   }
 ]
