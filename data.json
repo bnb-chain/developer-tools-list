@@ -213,7 +213,7 @@
     "name": "TencentCloud",
     "desc": "TencentCloud provides builders with streamlined access to a global network of nodes running on 20 different blockchains",
     "website": "https://www.tencentcloud.com/products/rpc",
-    "logo": "https://zhixinliancos.zxchain.qq.com/tencentcloudlogo/tencentcloudrpc.png",
+    "logo": "https://zhixinliancos.zxchain.qq.com/tencentcloudlogo/RPClogo.svg",
     "chains": "bsc",
     "tags": "Defi"
   },
