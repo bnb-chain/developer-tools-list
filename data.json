@@ -204,8 +204,18 @@
     "name": "Bounce Finance",
     "desc": "NFT API and Web3 marketplace",
     "website": "https://bounce.finance/",
-    "chains": "bsc",
+    "chains": "bsc"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "TencentCloud",
+    "desc": "TencentCloud provides builders with streamlined access to a global network of nodes running on 20 different blockchains",
+    "website": "https://www.tencentcloud.com/products/rpc",
+    "logo": "https://zhixinliancos.zxchain.qq.com/tencentcloudlogo/RPClogo.svg",
+    "chains": "bsc"
     "tags": "Defi"
+
   },
   {
     "category": "Blockchain Access",
