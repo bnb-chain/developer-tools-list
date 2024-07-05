@@ -21,3 +21,5 @@ Contributions are welcome! Feel free to submit a pull request, with anything fro
 | Yes (only for Wallets) | isSupportStaking | Specify whether your wallet supports staking                         | Values: true or false                                         |
 | Yes                    | chains           | Input the supported chains of your tool (BSC, opBNB, and Greenfield) | Values: bsc, opbnb, greenfield                                |
 | Yes                    | Annotation       | Contact Email Company Name Other Info                                |                                                               |
+| Yes                    | tags       | tools' tags                                |     Values: Game, DeFi, AI, DeSoc, All.
+can select one, multiple, or All tags                                                          |
