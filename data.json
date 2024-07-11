@@ -74,6 +74,16 @@
   {
     "category": "Blockchain Access",
     "groupTitle": "Block Explorers",
+    "name": "Binplorer",
+    "logo": "https://binplorer.com/images/binplorer/binplorer-icon-white-bg-40x40.png",
+    "desc": "Blockchain explorer for the BNB Chain. Historical balances in USD for any addresses, API where you can get all tokens at any address.",
+    "website": "https://binplorer.com",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
     "name": "BSCTrace",
     "desc": "Blockchain explorer of BNB Chain from NodeReal",
     "website": "https://bsctrace.com/",
@@ -194,6 +204,16 @@
     "name": "Bounce Finance",
     "desc": "NFT API and Web3 marketplace",
     "website": "https://bounce.finance/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "TencentCloud",
+    "desc": "TencentCloud provides builders with streamlined access to a global network of nodes running on 20 different blockchains",
+    "website": "https://www.tencentcloud.com/products/rpc",
+    "logo": "https://zhixinliancos.zxchain.qq.com/tencentcloudlogo/RPClogo.svg",
     "chains": "bsc",
     "tags": "Defi"
   },
@@ -1787,5 +1807,16 @@
     "website": "https://bascan.io/",
     "chains": ["bsc", "opbnb", "greenfield"],
     "tags": "AI"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "ZNS Connect",
+    "desc": "ZNS Connect is a decentralized naming system designed to simplify Web3 by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.",
+    "logo": "https://v3.znsconnect.io/favicon.ico",
+    "website": "https://www.znsconnect.io/",
+    "groupTitle": "",
+    "chains": "bsc",
+    "tags": "Identity,Socials,Defi"
   }
 ]
