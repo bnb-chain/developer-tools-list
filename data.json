@@ -1817,5 +1817,15 @@
     "website": "https://bascan.io/",
     "chains": "bsc, opbnb, greenfield",
     "tags": "AI"
+  },
+  {
+    "category": "Category Name, existing or new, cannot be empty", 
+    "groupTitle": "GroupTitle, existing or new, cannot be empty",
+    "name": "Name of your tool, cannot be empty, 20 characters max",
+    "desc": "Description of your tool, cannot be empty, 1000 characters max",
+    "logo": "Link to your tool’s logo, 40x40 pixes Prefer SVG files",
+    "website": "Website URL of your tool",
+    "chains": "supported chains of your tool (bsc, opbnb, greenfield)",
+    "tags": "Tools' tags,values in(Game, DeFi, AI, DeSoc, All.)"
   }
 ]
