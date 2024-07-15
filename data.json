@@ -1988,7 +1988,6 @@
     "tags": "AI"
   },
   {
-    {
     "category": "AI Toolings",
     "groupTitle": "Data Marketplace",
     "name": "RIDO",
@@ -1997,6 +1996,5 @@
     "website": "https://rido.io/",
     "chains": "bsc, opbnb, greenfield",
     "tags": "AI"
-  }
   }
 ]
