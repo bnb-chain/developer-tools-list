@@ -1978,13 +1978,25 @@
     "tags": "Identity,Socials,Defi"
   },
   {
-    "category": "AI Toolings",
-    "groupTitle": "Data Marketplace",
+    "category": "Development",
+    "groupTitle": "Attestation Service",
     "name": "BAS",
     "desc": "The BNB Attestation Service (BAS) is an infrastructure built on the BNB ecosystem for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield. This approach ensures data privacy and access control.",
     "logo": "https://greenfield-sp.defibit.io/view/rido-x/rido-icon.svg",
     "website": "https://bascan.io/",
     "chains": "bsc, opbnb, greenfield",
     "tags": "AI"
+  },
+  {
+    {
+    "category": "AI Toolings",
+    "groupTitle": "Data Marketplace",
+    "name": "RIDO",
+    "desc": "RIDO is a personal data marketplace where data with the same schema form data pools. Users can contribute their data to relevant data pools and earn income. Buyers can purchase access to specific data pools to obtain all the data within those pools.",
+    "logo": "https://greenfield-sp.defibit.io/view/rido-x/rido.svg",
+    "website": "https://rido.io/",
+    "chains": "bsc, opbnb, greenfield",
+    "tags": "AI"
+  }
   }
 ]
