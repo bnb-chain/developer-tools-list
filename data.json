@@ -110,6 +110,15 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "CryptoGugu",
+    "desc": "GuGu is a meme coin that used on skill-based competitive platform specifically designed for mainstream casual crypto earners.",
+    "website": "https://cryptogugu.com/",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
     "name": "NodeReal",
     "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
@@ -219,6 +228,16 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "All That Node",
+    "desc": "All That Node is the most comprehensive multi-chain development suite, designed to support multiple networks from a single platform.",
+    "website": "https://www.allthatnode.com/",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/Auprun0gwQIz5PHyMhvkA",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "NFT Tools",
     "name": "NFTScan",
     "desc": "The NFTScan API helps developers build new experiences retrieving NFTs and data analysis. We provide a set of endpoints that enable you to fetch ERC721 and ERC1155 NFT assets as well as transactions, collections, marketplace statistics and more",
@@ -314,6 +333,26 @@
     "desc": "Bridgeless cross-chain swaps",
     "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
     "website": "https://www.hashflow.com/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Kontos Protocol",
+    "desc": "The first user-focused omnichain infrastructure powered by zk.",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/8vof9U_5tipRuJDUQvsIJ",
+    "website": "https://kontos.io/",
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "IGO dApp",
+    "desc": "IGO dApp is a dApp built on the Add3 APP platform.",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/bqOtpFkzjWC0jh4bwXgRN",
+    "website": "https://app.igocoin.org",
     "chains": "bsc",
     "tags": "Defi"
   },
@@ -572,6 +611,16 @@
   },
   {
     "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Reclaim Protocol",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/u5354uXs0hTD7BchZqcaH",
+    "desc": "Reclaim simplifies integrating external user activity, reputation, and identity into your platform.",
+    "website": "https://www.reclaimprotocol.org/",
+    "chains": "bsc",
+    "tags": "Identity"
+  },
+  {
+    "category": "Development",
     "groupTitle": "Wallet SDK",
     "name": "Venly",
     "desc": "Wallet creation by social accounts",
@@ -781,6 +830,16 @@
   {
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
+    "name": "CEEK",
+    "logo": "https://pbs.twimg.com/profile_images/1047966430623424512/22SkLo1e_400x400.jpg",
+    "desc": "Web2 Content Monetization Platform for Creators and Fans",
+    "website": "https://www.ceek.com/",
+    "chains": "bsc",
+    "tags": "Socials"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
     "name": "Colyseus",
     "logo": "https://colyseus.io/images/logos/logo-light.png",
     "desc": "Own your authoritative game servers.",
@@ -797,6 +856,16 @@
     "website": "https://may.social/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
+    "name": "MEET48",
+    "logo": "https://www.meet48.xyz/images_new2/logo.png",
+    "desc": "MEET48: WEB3 & Intelligent Social Metaverse",
+    "website": "https://www.meet48.xyz/",
+    "chains": "opbnb",
+    "tags": "Socials"
   },
   {
     "category": "On-Chain Game Development",
@@ -1214,6 +1283,16 @@
     "tags": "Defi"
   },
   {
+    "category": "DeFi Development",
+    "groupTitle": "Staking",
+    "name": "InceptionLRT",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/t_AjK-gBww9K1RjKS_qLc",
+    "desc": "Omnichain and Multi-Network Liquid Restaking Protocol",
+    "website": "https://www.inceptionlrt.com/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
     "name": "Aggregata.xyz",
@@ -1226,11 +1305,61 @@
   {
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
+    "name": "Cookie3",
+    "logo": "https://ugc.production.linktr.ee/a65411b5-e3e7-44c9-b8e1-8cf1eee443ca_photo-2024-04-24-11.36.06.jpeg?io=true&size=avatar-v3_0",
+    "desc": "Cookie3 is the first MarketingFi and data AI protocol with a mission to create a transparent economy for individuals, creators, and businesses, driven by a vision of fair value exchange.",
+    "website": "https://www.cookie3.com",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "DIN",
+    "logo": "https://din.lol/images/logo.png",
+    "desc": "DIN is the First Modular AI-Native Data Pre-Processing Layer.",
+    "website": "https://din.lol/",
+    "chains": "bsc,opbnb,greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
     "name": "Fetch.Ai",
     "logo": "https://fetch.ai/Images/logo/fetch-logo.svg",
     "desc": "Make your services discoverable on the Fetch.ai Platform with the first open network for AI Agents.",
     "website": "https://fetch.ai/",
     "chains": "greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "PalioAI",
+    "logo": "https://xter.io/_next/image?url=https%3A%2F%2Fresources.xter.io%2Ffunfog_upload%2Fdcc09aa229e9%2Fgame%2F1703487430-5387371656346358334.png&w=2000&q=75",
+    "desc": "Meet Palio, your one and only AI buddy to interact, discover and play with.",
+    "website": "https://xter.io/games/dcc09aa229e9",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Stability World AI",
+    "logo": "https://pbs.twimg.com/profile_images/1740580439751073792/OPcso60K_400x400.jpg",
+    "desc": "A blockchain-powered generative AI platform with one-stop features, advanced API services, and an accelerating AI hub for Web3.",
+    "website": "https://stabilityworld.ai/",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "TRACKS",
+    "logo": "https://label.foundation/logo.svg",
+    "desc": "Enjoy your lifestyle music and get rewarded, powered by AI and blockchain.",
+    "website": "https://label.foundation/",
+    "chains": "opbnb",
     "tags": "AI"
   },
   {
@@ -1309,6 +1438,25 @@
     "website": "https://www.venly.io/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Metale Protocol",
+    "desc": "A new-era global content distribution protocol that provides on-chain services for content subscription, transparent profit-sharing, and asset transactions.",
+    "website": "https://www.metale.world",
+    "chains": "opbnb,Greenfield",
+    "tags": "Defi"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "NFTFeed",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/lKwwwS7YVHwU8mWwLyuYe",
+    "desc": "NFTFeed is Web3 NFT Solution platform on multichain.",
+    "website": "https://mint.nftfeed.guru/",
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
   },
   {
     "category": "NFT Marketplace",
@@ -1736,6 +1884,27 @@
     "website": "https://slope.finance/",
     "isSupportStaking": true,
     "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "iMe Messenger and Crypto Wallet",
+    "desc": "iMe is a messaging smart platform powered by Telegram with Crypto Wallet.",
+    "website": "https://www.imem.app/",
+    "isSupportStaking": true,
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Grindery Wallet",
+    "logo": "https://reputation-bnb.anima.io/img/anima-white-icon.svg",
+    "desc": "Grindery Wallet integrates with Telegram making crypto transactions as simple as sending a message.",
+    "website": "https://www.grindery.com/",
+    "isSupportStaking": false,
+    "chains": "bsc,opbnb",
     "tags": "Defi"
   },
   {
