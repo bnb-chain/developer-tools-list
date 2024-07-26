@@ -1304,6 +1304,16 @@
   },
   {
     "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "QuillShield",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/image_1_1_9ca0ebdcbf.svg",
+    "desc": "AI-powered Web3 Security for your dApp’s DevSecOps.",
+    "website": "https://shield.quillaudits.com/",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
     "groupTitle": "AI Modeling",
     "name": "Cookie3",
     "logo": "https://ugc.production.linktr.ee/a65411b5-e3e7-44c9-b8e1-8cf1eee443ca_photo-2024-04-24-11.36.06.jpeg?io=true&size=avatar-v3_0",
@@ -1641,6 +1651,16 @@
     "tags": "ALL"
   },
   {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "QuillAudits",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/Quill_Audits_Icon_White_on_Gradient_1_3d974029a2.svg",
+    "desc": "Web3 security leader with robust audits, penetration testing and more, having audited 1000+ projects since 2018.",
+    "website": "https://www.quillaudits.com/smart-contract-audit",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
     "category": "Decentralized Identity/Social Graph",
     "groupTitle": "",
     "name": "SPACE ID",
@@ -1924,6 +1944,16 @@
     "desc": "Manage your token allowances and protect yourself from scams on 30+ chains, including Ethereum, BSC and Polygon.",
     "website": "https://revoke.cash/",
     "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+    {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "QuillCheck",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/1_10_a533b8f6b3.svg",
+    "desc": "Uncover honeypots, understand token permissions, and get comprehensive market insights.",
+    "website": "https://quillcheck.quillaudits.com/",
     "chains": "bsc",
     "tags": "Defi"
   },
