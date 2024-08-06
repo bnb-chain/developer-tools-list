@@ -2026,5 +2026,13 @@
     "website": "https://rido.io/",
     "chains": "bsc, opbnb, greenfield",
     "tags": "AI"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "N Suite",
+    "desc": "N Suite is a subscription-based, enterprise grade Private Key Management tool for Web3 operations.  It enables teams to securely manage their on-chain assets, while achieving efficiencies necessary to scale operations.",
+    "website": "https://www.nsuite.io/",
+    "chains": "bsc",
+    "tags": "Game,Defi"
   }
-]
