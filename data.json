@@ -1947,7 +1947,7 @@
     "chains": "bsc",
     "tags": "Defi"
   },
-    {
+  {
     "category": "Token Approval Tools",
     "groupTitle": "",
     "name": "QuillCheck",
@@ -2036,3 +2036,4 @@
     "chains": "bsc",
     "tags": "Game,Defi"
   }
+]
