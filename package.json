@@ -1,0 +1,27 @@
+{
+  "name": "developer-tools-list",
+  "version": "1.0.0",
+  "description": "This landscape represents a comprehensive list of tools that developers use when developing smart contracts on the BNB Chain, including BNB Smart Chain, opBNB Chain, and Greenfield Chain.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint-staged": "npx lint-staged",
+    "lint": "jsonlint",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "husky": "^9.1.5",
+    "jsonlint": "^1.6.3",
+    "lint-staged": "^6.1.1",
+    "prettier": "^3.3.3",
+    "stylelint": "^16.8.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.json": "jsonlint"
+  }
+}
