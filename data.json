@@ -2000,10 +2000,10 @@
   {
     "category": "Decentralized Identity/Social Graph",
     "groupTitle": "",
-    "name": "ZNS Connect",
-    "desc": "ZNS Connect is a decentralized naming system designed to simplify Web3 by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.",
-    "logo": "https://v3.znsconnect.io/favicon.ico",
-    "website": "https://www.znsconnect.io/",
+    "name": "Reclaim Protocol",
+    "desc": "SDK to learn about your users' identity, credentials and reputation",
+    "website": "https://www.reclaimprotocol.org/",
+    "logo": "https://drive.google.com/file/d/1MS9mixEUI8dKs8VYJVcVOJjjcUA-eQKf/view?usp=sharing",
     "chains": "bsc",
     "tags": "Identity,Socials,Defi"
   },
