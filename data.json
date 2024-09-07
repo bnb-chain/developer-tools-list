@@ -357,6 +357,17 @@
     "tags": "Defi"
   },
   {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Defiway",
+    "desc": "Fast cross-chain bridge with low fees",
+    "logo": "https://fs.defiway.com/icons/defiway_wh.svg",
+    "website": "https://defiway.com",
+    "chains": "bsc",
+    "annotations": "email: defiway.solid@gmail.com",
+    "tags": "Defi"
+  },
+  {
     "category": "Browser",
     "groupTitle": "",
     "name": "Opera",
