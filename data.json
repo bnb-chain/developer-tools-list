@@ -1000,6 +1000,15 @@
   {
     "category": "DeFi Development",
     "groupTitle": "Oracle",
+    "name": "RedStone Oracles",
+    "logo": "https://redstone.finance/assets/img/redstone-logo-full.svg",
+    "desc": " RedStone is a decentralized modular oracle that provides gas-optimized data feeds. It specializes in offering price feeds for emerging assets, such as liquid staking tokens (LSTs), liquid restaking tokens (LRTs), and Bitcoin staking derivatives.",
+    "website": "https://redstone.finance/",
+    "chains": "bsc",
+    "tags": "Defi"
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
     "name": "Band Protocol",
     "logo": "https://www.bandprotocol.com/static/images/logo.svg",
     "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
