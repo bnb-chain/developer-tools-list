@@ -2056,5 +2056,32 @@
     "website": "https://www.nsuite.io/",
     "chains": "bsc",
     "tags": "Game,Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "BNB Chain Bridge",
+    "desc": "Bridge and transfer your assets between networks (Ethereum, Polygon and etc.) and BNB Chain blockchain ecosystem.",
+    "website": "https://www.bnbchain.org/en/bnb-chain-bridge",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "BNB Greenfield Bridge",
+    "desc": "BNB Greenfield Bridge facilitates the transfer of BNB between BNB Smart Chain (BSC) and BNB Greenfield.",
+    "website": "https://greenfield.bnbchain.org/en/bridge",
+    "chains": "bsc, greenfield",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "opBNB Bridge",
+    "desc": "The official opBNB Bridge lets you transfer tokens between BNB Smart Chain (BSC) and opBNB, a layer-2 solution that delivers lower fees and higher throughput.",
+    "website": "https://opbnb-bridge.bnbchain.org/deposit",
+    "chains": "bsc, opbnb",
+    "tags": "Defi"
   }
 ]
