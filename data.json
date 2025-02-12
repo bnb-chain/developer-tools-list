@@ -2078,5 +2078,15 @@
     "website": "https://opbnb-bridge.bnbchain.org/deposit",
     "chains": "bsc, opbnb",
     "tags": "Defi"
+  },
+  {
+    "category": "Infrastructure",
+    "groupTitle": "",
+    "name": "APRO ATTPs",
+    "logo": "https://www.apro.com/apro.svg",
+    "desc": "APRO is a secure data transfer layer for AI agents, setting the benchmark in secure data for Crypto and AI agents with ATTPs (AgentText Transfer Protocol Secure)—the world’s first blockchain-based AI data transfer protocol. ATTPs is also a novel protocol designed to ensure all AI agent data transfers are secure(tamper-proof) and verifiable. By implementing a multi-layered verification mechanism incorporating zero-knowledge proofs, Merkle trees, and blockchain consensus protocols, ATTPs establish a trustworthy communication infrastructure for the emerging AI agent ecosystem.",
+    "website": "https://www.apro.com/",
+    "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
+    "tags": "AI"
   }
 ]
