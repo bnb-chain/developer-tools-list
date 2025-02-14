@@ -1,6 +1,17 @@
 [
   {
     "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "Analytics & Dashboards",
     "name": "Dune",
     "desc": "Blockchain ecosystem analytics by and for the community",
     "website": "http://dune.com/",
@@ -235,6 +246,17 @@
     "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/Auprun0gwQIz5PHyMhvkA",
     "chains": "bsc",
     "tags": "Defi"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "Blockchain Access",
@@ -900,6 +922,17 @@
   {
     "category": "On-Chain Game Development",
     "groupTitle": "Game Marketplace",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
     "name": "Lifty",
     "logo": "",
     "desc": "A web3 gaming platform.",
@@ -1148,6 +1181,17 @@
   {
     "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
     "name": "Rareboard",
     "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
     "website": "http://rareboard.com",
@@ -1211,6 +1255,17 @@
     "website": "https://bsc-explorer.blocksmith.org/dashboard/block",
     "chains": "bsc",
     "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "DeFi Development",
@@ -1297,6 +1352,17 @@
     "website": "https://li.fi/",
     "chains": "bsc",
     "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Staking",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "DeFi Development",
@@ -1444,6 +1510,17 @@
     "website": "http://biconomy.io/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Liteflow",
+    "logo": "https://drive.google.com/file/d/1AKBq7J6IBAIC6D2cKUV3kLp22-Nrga3x/",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "NFT Marketplace",
