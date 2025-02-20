@@ -1288,14 +1288,14 @@
     "tags": "Defi"
   },
   {
-    "category": "DeFi Development",
-    "groupTitle": "Data Analytics",
-    "name": "DeFiLlama",
-    "desc": "A DeFi TVL aggregator.",
-    "website": "https://defillama.com/",
-    "chains": "bsc",
-    "tags": "Defi"
-  },
+			"category": "DeFi Development",
+			"groupTitle": "Data Analytics",
+			"name": "DeFiLlama",
+			"desc": "A DeFi TVL aggregator.",
+			"website": "https://defillama.com/",
+			"chains": "bsc",
+			"tags": "Defi"
+		},
   {
     "category": "DeFi Development",
     "groupTitle": "Data Analytics",
@@ -1373,6 +1373,16 @@
     "website": "https://www.inceptionlrt.com/",
     "chains": "bsc",
     "tags": "Defi"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "0xGasless AI Agentkit",
+    "name": "0xGasless",
+    "logo": "https://drive.google.com/file/d/15n7DZdlAGsMRTw6D07fntn07pkXmZtm0/view",
+    "desc": "0xGasless AgentKit lets you build AI agents that can trade, manage funds, and interact with DeFi protocols in natural language",
+    "website": "https://0xgasless.com/",
+    "chains": "bsc",
+    "tags": "AI"
   },
   {
     "category": "AI Toolings",
