@@ -49,6 +49,16 @@
   {
     "category": "Analytics & Dashboards",
     "groupTitle": "",
+    "name": "Pepe_Terminal",
+    "logo": "https://neurapepeai.com/assets/logos.svg",
+    "desc": "Smart Analytic Dashboard, Auto-generated Agents, SmartSwap on BSC, ETH, Base EVM",
+    "website": "https://app.neurapepeai.com/",
+    "chains": "bsc",
+    "tags": "Analytics,Defi,AI,All"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
     "name": "Bloxy",
     "desc": "One stand data source for understanding Binance DEX",
     "website": "http://bloxy.info/",
