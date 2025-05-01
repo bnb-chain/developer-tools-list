@@ -1,4 +1,4 @@
-[
+ [
   {
     "category": "Analytics & Dashboards",
     "groupTitle": "",
@@ -81,6 +81,16 @@
     "website": "https://bscscan.com/",
     "chains": "bsc,opbnb",
     "tags": "Game,Defi"
+  },
+ {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "Smart Trading",
+    "name": "Pepe_Terminal",
+    "logo": "https://neurapepeai.com/assets/logos.svg",
+    "desc": "Smart Analytic Dashboard, Auto-generated Agents, SmartSwap on BSC, ETH, Base EVM",
+    "website": "https://app.neurapepeai.com/",
+    "chains": "bsc",
+    "tags": "Analytics,Defi,AI,Dapps"
   },
   {
     "category": "Blockchain Access",
