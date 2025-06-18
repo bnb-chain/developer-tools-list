@@ -2018,6 +2018,17 @@
     "chains": "bsc,opbnb",
     "tags": "Defi"
   },
+   {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Coin Wallet",
+    "logo": "https://coin.space/bassets/images/yRDhG3sqmo-228.svg",
+    "desc": "An open-source, self-custodial multi-chain wallet with support for BNB and BEP-20 tokens.",
+    "website": "https://coin.space/",
+    "isSupportStaking": false,
+    "chains": "bsc",
+    "tags": "Defi"
+  },
   {
     "category": "Token Approval Tools",
     "groupTitle": "",
