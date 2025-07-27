@@ -2165,5 +2165,18 @@
     "website": "https://www.apro.com/",
     "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
     "tags": "AI"
+    "website": "https://bascan.io/",
+    "chains": "bsc, opbnb, greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "Infrastructure", 
+    "groupTitle": "Decentralized Cloud Computing",
+    "name": "Aleph Cloud",
+    "desc": "Supercloud offering developers access to decentralized database storage, VPS, compute, TEE and AI. EVM and SVM compatible.",
+    "logo": "https://cryptologos.cc/logos/aleph-im-aleph-logo.svg?v=040",
+    "website": "https://aleph.cloud",
+    "chains": "bsc",
+    "tags": "DePIN,AI)"
   }
 ]
