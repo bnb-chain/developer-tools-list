@@ -147,6 +147,16 @@
     "tags": "Game,Defi"
   },
   {
+  "category": "Blockchain Access",
+  "groupTitle": "Node and Archive Services",
+  "name": "Zeeve",
+  "logo": "https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2024/06/LogoBlackGreen.png",
+  "desc": "Scalable and enterprise-grade RPC, validator, full and archive node infrastructure for BNB Chain and other networks.",
+  "website": "https://www.zeeve.io/",
+  "chains": "bsc",
+  "tags": "Infra,Validator"
+},
+  {
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
     "name": "Chainstack",
