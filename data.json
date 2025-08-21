@@ -1336,6 +1336,16 @@
   },
   {
     "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "chatXZI",
+    "logo": "https://chatxzi.com/assets/logos.svg",
+    "desc": "The gateway to DEFI, real-time charts, Social Metrics and fast swap on BSC Network.",
+    "website": "https://chatxzi.com",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
     "groupTitle": "Social Trading/Bot",
     "name": "Unibot",
     "desc": "The fastest on-chain Trading Terminal and Telegram DEX trading bot.",
