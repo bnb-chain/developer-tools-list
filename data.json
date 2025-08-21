@@ -1327,6 +1327,16 @@
   {
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
+    "name": "Pepe_Terminal",
+    "logo": "https://neurapepeai.com/assets/logos.svg",
+    "desc": "Smart Analytic Dashboard,real-time charts, Auto-generated Agents, SmartSwap on BSC, ETH, Base EVM",
+    "website": "https://app.neurapepeai.com/",
+    "chains": "bsc",
+    "tags": "Analytics,Defi,AI,Dapps"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
     "name": "DEXGuru",
     "logo": "https://dex-bin.bnbstatic.com/new/static/images/dev-tools/icons/DexGuru.png?v=3",
     "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
