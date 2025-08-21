@@ -297,6 +297,16 @@
   {
     "category": "Blockchain Access",
     "groupTitle": "Data Indexing",
+    "name": "Envio",
+    "desc": "High performance, customisable, multichain, data indexer", 
+    "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.svg",
+    "website": "https://envio.dev/",
+    "chains": "bsc, opbnb",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
     "name": "PARSIQ",
     "desc": "Raw onchain data indexing, monitoring and intelligence platform",
     "website": "https://www.parsiq.net/",
