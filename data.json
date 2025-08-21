@@ -844,6 +844,16 @@
   {
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
+    "name": "Openfort",
+    "logo": "",
+    "desc": "Open-source alternative to wallet infrastructure solutions",
+    "website": "https://www.openfort.io/",
+    "chains": "bsc", "opbnb",
+    "tags": "Game"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Social Login",
     "name": "Stackup",
     "logo": "https://assets-global.website-files.com/641a927b6f25b780e5303838/641a93ffff5924e14fa43df9_logotype_blue_white.png",
     "desc": "Open-source platform for custom web3 experiences and smart contract wallets.",
@@ -1509,6 +1519,15 @@
     "desc": "Gasless solution",
     "website": "http://biconomy.io/",
     "chains": "bsc",
+    "tags": "Game"
+  },
+  {
+    "category": "Gasless Solutions",
+    "groupTitle": "",
+    "name": "Openfort",
+    "desc": "Open-source alternative to wallet infrastructure solutions",
+    "website": "https://www.openfort.io/",
+    "chains": "bsc", "opbnb",
     "tags": "Game"
   },
   {
