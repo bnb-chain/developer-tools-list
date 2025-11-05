@@ -2176,5 +2176,15 @@
     "website": "https://www.apro.com/",
     "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
     "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "",
+    "name": "khorus",
+    "desc": "Khorus empowers anyone to build and deploy intelligent applications through on-chain A2A architecture.",
+    "website": "https://khorus.io/",
+    "logo": "https://khorus.io/logo.svg",
+    "chains": "bsc",
+    "tags": "AI"
   }
 ]
