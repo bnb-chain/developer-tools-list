@@ -247,6 +247,16 @@
     "chains": "bsc",
     "tags": "Defi"
   },
+   {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "GetBlock",
+    "desc": "GetBlock delivers high-performance RPCs, faucets, block explorers, data indexing, analytics, full-stack DEX dev, oracle integrations, cross-chain bridges.",
+    "website": "https://getblock.io/?utm_source=bnb&utm_campaign=github&utm_content=bnb_ecosystem",
+    "logo": "https://storage.getblock.io/web/getblock-ui-kit/logo_blue.svg",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
   {
     "category": "Blockchain Access",
     "groupTitle": "NFT Tools",
