@@ -295,6 +295,17 @@
     "tags": "Game"
   },
   {
+  "category": "Blockchain Access",
+  "groupTitle": "Data Indexing",
+  "name": "Envio",
+  "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.png",
+  "desc": "Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.",
+  "website": "https://envio.dev",
+  "annotations": "email: jordyn@envio.dev",
+  "chains": "bsc,opbnb",
+  "tags": "Game,Defi"
+},
+  {
     "category": "Blockchain Access",
     "groupTitle": "Data Indexing",
     "name": "PARSIQ",
