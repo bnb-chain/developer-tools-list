@@ -2176,5 +2176,16 @@
     "website": "https://www.apro.com/",
     "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
     "tags": "AI"
+  },
+  {
+  "category": "Blockchain Access",
+  "groupTitle": "Node and Archive Services",
+  "name": "Zerion API",
+  "logo": "https://cdn.prod.website-files.com/625440d0613eaa2ace513f45/6992fcb21127be0de2e70d69_Icon_square.svg",
+  "desc": "Enterprise-grade wallet data API for BNB Smart Chain and other major blockchains. One unified schema for token balances, DeFi positions, NFTs, transaction history, PnL, and token metadata.",
+  "website": "https://zerion.io/api",
+  "annotations": "email: api@zerion.io",
+  "chains": "bsc",
+  "tags": "All"
   }
 ]
