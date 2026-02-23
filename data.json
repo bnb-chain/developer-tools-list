@@ -1307,6 +1307,16 @@
   },
   {
     "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "Codex",
+    "logo": "https://cdn.prod.website-files.com/6669befdbe2926bfc0a8363a/6669bfb80cb8f7130aeec42c_Codex%20Webclip.png",
+    "desc": "Real-time blockchain data API for token prices, charts, wallets, and transactions across multiple networks.",
+    "website": "https://www.codex.io",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DexScreener",
     "logo": "",
@@ -1331,6 +1341,16 @@
     "logo": "https://dex-bin.bnbstatic.com/new/static/images/dev-tools/icons/DexGuru.png?v=3",
     "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
     "website": "https://dex.guru/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "Defined",
+    "logo": "https://cdn.prod.website-files.com/6669befdbe2926bfc0a8363a/699cb709ff4aaf9954894c47_defined-fav.jpg",
+    "desc": "Multi-chain trading terminal with real-time charts, analytics, and customizable trading tools.",
+    "website": "https://www.defined.fi",
     "chains": "bsc",
     "tags": "Defi"
   },
