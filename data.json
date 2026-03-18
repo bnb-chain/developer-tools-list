@@ -1,5 +1,16 @@
 [
   {
+  "category": "Infrastructure",
+  "groupTitle": "MPC Wallets/Multisig",
+  "name": "Fystack",
+  "logo": "https://drive.google.com/uc?export=view&id=1Y5pSGvUFfsmBkGF7W8VOdj269gpB_yXo",
+  "desc": "Fystack gives businesses the infrastructure to automate digital asset operations securely using MPC (Multi-Party Computation), at any scale. It provides wallet creation, transaction automation, multi-approval flows, spending policies, and audit logs through one unified API.",
+  "website": "https://fystack.io",
+  "annotations": "email: marketing@fystack.io, company: Fystack",
+  "chains": "bsc",
+  "tags": "All"
+  },
+  {
     "category": "Analytics & Dashboards",
     "groupTitle": "",
     "name": "Liteflow",
