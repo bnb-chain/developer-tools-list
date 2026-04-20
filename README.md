@@ -13,14 +13,14 @@ Contributions are welcome! Feel free to submit a pull request, with anything fro
 | Required               | Parameters       | Description                                                          | Notes                                                         |
 |------------------------|------------------|----------------------------------------------------------------------|---------------------------------------------------------------|
 | Yes                    | name             | Avail Deposit                                                        | 20 characters max, including numbers, letters, and blanks     |
-| Yes                    | logo             | Input the link to your tool’s logo                                   | Format: 40x40 pixs Prefer SVG files                           |
+| Yes                    | logo             | https://drive.google.com/file/d/1ac0uTbu2oCL54X2_fy6AHBjwybtOUmqc/view?usp=sharing | Format: 40x40 pixs Prefer SVG files                           |
 | Yes                    | category         | DeFi Development                                                     | If you need a new category, please specify in the annotation. |
 | Yes                    | groupTitle       | Deposit Widgets                                                      | If you need a new group, please specify in the annotation.    |
 | Yes                    | website          | https://availproject.org/nexus/deposit                               | Format auto-check                                             |
 | Yes                    | desc             | Cross-chain deposit widget that enables users to deposit assets from multiple chains into a dApp in a single flow. It abstracts away bridging, gas tokens, and chain switching to improve user onboarding UX.                                                     | 1000 characters max                                           |
 | Yes (only for Wallets) | isSupportStaking | false                                                                | Values: true or false                                         |
 | Yes                    | chains           | bsc                                                                  | Values: bsc, opbnb, greenfield                                |
-| Yes                    | Annotation       | Contact: soumyajit@availproject.org Company: Avail Project
+| Yes                    | Annotation       | Contact: soumyajit@availproject.org Company: Avail
 
 Requesting a new groupTitle under DeFi Development: "Deposit Widgets".
 
