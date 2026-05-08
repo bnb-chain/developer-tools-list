@@ -2176,15 +2176,5 @@
     "website": "https://www.apro.com/",
     "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
     "tags": "AI"
-  },
-  {
-    "category": "Analytics & Dashboards",
-    "name": "uDegen",
-    "logo": "https://i.ibb.co/TBMH6pM0/logo-2.png",
-    "desc": "uDegen focuses on helping users better analyze tokens and market activity.",
-    "website": "https://udegen.io",
-    "groupTitle": "",
-    "chains": "bsc",
-    "tags": "Defi,AI"
   }
 ]
