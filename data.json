@@ -2030,6 +2030,17 @@
     "tags": "Defi"
   },
   {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Gem Wallet",
+    "logo": "https://gemwallet.com/images/presskit/gemwallet-icon-256x256.svg",
+    "desc": "Gem Wallet is an open-source and self-custodial crypto wallet that lets you send, receive, swap, use dApps, buy, and stake cryptocurrencies.",
+    "website": "https://gemwallet.com/",
+    "isSupportStaking": true,
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+  {
     "category": "Token Approval Tools",
     "groupTitle": "",
     "name": "BscScan",
