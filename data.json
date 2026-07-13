@@ -295,16 +295,14 @@
     "tags": "Game"
   },
   {
-  "category": "Blockchain Access",
-  "groupTitle": "Data Indexing",
-  "name": "Envio",
-  "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.png",
-  "desc": "Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.",
-  "website": "https://envio.dev",
-  "annotations": "email: jordyn@envio.dev",
-  "chains": "bsc,opbnb",
-  "tags": "Game,Defi"
-},
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Envio",
+    "desc": "High-performance, developer-friendly multichain indexer. Envio's HyperIndex turns smart contract events into a queryable GraphQL API, with HyperSync delivering historical syncs up to 2000x faster than RPC. Full support for BSC and opBNB, plus managed hosting on Envio Cloud.",
+    "website": "https://envio.dev/",
+    "chains": "bsc,opbnb",
+    "tags": "All"
+  },
   {
     "category": "Blockchain Access",
     "groupTitle": "Data Indexing",
@@ -2041,6 +2039,17 @@
     "tags": "Defi"
   },
   {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Gem Wallet",
+    "logo": "https://gemwallet.com/images/presskit/gemwallet-icon-256x256.svg",
+    "desc": "Gem Wallet is an open-source and self-custodial crypto wallet that lets you send, receive, swap, use dApps, buy, and stake cryptocurrencies.",
+    "website": "https://gemwallet.com/",
+    "isSupportStaking": true,
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+  {
     "category": "Token Approval Tools",
     "groupTitle": "",
     "name": "BscScan",
@@ -2187,5 +2196,15 @@
     "website": "https://www.apro.com/",
     "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
     "tags": "AI"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "name": "uDegen",
+    "logo": "https://i.ibb.co/TBMH6pM0/logo-2.png",
+    "desc": "uDegen focuses on helping users better analyze tokens and market activity.",
+    "website": "https://udegen.io",
+    "groupTitle": "",
+    "chains": "bsc",
+    "tags": "Defi,AI"
   }
 ]
