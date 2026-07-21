@@ -845,10 +845,10 @@
     "category": "On-Chain Game Development",
     "groupTitle": "Social Login",
     "name": "Openfort",
-    "logo": "",
+    "logo": "https://www.openfort.io/img/icon.svg",
     "desc": "Open-source alternative to wallet infrastructure solutions",
     "website": "https://www.openfort.io/",
-    "chains": "bsc", "opbnb",
+    "chains": "bsc,opbnb",
     "tags": "Game"
   },
   {
@@ -1525,9 +1525,10 @@
     "category": "Gasless Solutions",
     "groupTitle": "",
     "name": "Openfort",
+    "logo": "https://www.openfort.io/img/icon.svg",
     "desc": "Open-source alternative to wallet infrastructure solutions",
     "website": "https://www.openfort.io/",
-    "chains": "bsc", "opbnb",
+    "chains": "bsc,opbnb",
     "tags": "Game"
   },
   {
