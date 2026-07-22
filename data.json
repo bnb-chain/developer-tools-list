@@ -2269,6 +2269,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Infrastructure",
+    "groupTitle": "Decentralized Cloud Computing",
+    "name": "Aleph Cloud",
+    "logo": "https://cryptologos.cc/logos/aleph-im-aleph-logo.svg?v=040",
+    "desc": "Supercloud offering developers access to decentralized database storage, VPS, compute, TEE and AI. EVM and SVM compatible.",
+    "website": "https://aleph.cloud",
+    "chains": "bsc",
+    "tags": "ALL,AI"
   }
   {
     "category": "Analytics & Dashboards",
