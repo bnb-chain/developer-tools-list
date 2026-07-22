@@ -698,6 +698,17 @@
   },
   {
     "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "JAW",
+    "logo": "https://docs.jaw.id/logo.svg",
+    "desc": "JAW provides smart account infrastructure for BSC Chain applications. Give users passkey-secured accounts with ENS identity, sponsor their gas, and enable programmable permissions for subscriptions and delegated agent execution.",
+    "website": "https://jaw.id",
+    "annotations": "email: hello@justalab.co",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Development",
     "groupTitle": "MPC Wallets/Multisig",
     "name": "Qredo",
     "desc": "MPC Wallets increase overall security for key management and such solutions are critical for protocol/project treasury management",
