@@ -334,6 +334,15 @@
     "chains": "bsc",
     "tags": "Defi"
   },
+    {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "txdecoder",
+    "desc": "Blockchain Transaction Decoding & Standardization Service on BNB Chain, Ethereum, Base",
+    "website": "https://txdecoder.xyz/",
+    "chains": "bsc,base,ethereum",
+    "tags": "Defi"
+  },
   {
     "category": "Cross-chain Bridges",
     "groupTitle": "",
