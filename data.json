@@ -700,6 +700,15 @@
     "chains": "bsc",
     "tags": "Game,Defi"
   },
+    {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Openfort",
+    "desc": "Open-source wallet infrastructure",
+    "website": "https://openfort.io/",
+    "chains": "bsc,opbnb",
+    "tags": "Game,Defi,AI"
+  },
   {
     "category": "Development",
     "groupTitle": "Wallet SDK",
