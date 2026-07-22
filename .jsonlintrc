@@ -1,0 +1,7 @@
+{
+  "allowDuplicateObjectKeys": false,
+  "disallowDuplicatedKeys": true,
+  "disallowEmptyString": true,
+  "disallowTrailingComma": true,
+  "disallowTrailingWhitespace": true
+}

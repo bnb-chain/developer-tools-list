@@ -1,5 +1,27 @@
 [
   {
+  "category": "Infrastructure",
+  "groupTitle": "MPC Wallets/Multisig",
+  "name": "Fystack",
+  "logo": "https://drive.google.com/uc?export=view&id=1Y5pSGvUFfsmBkGF7W8VOdj269gpB_yXo",
+  "desc": "Fystack gives businesses the infrastructure to automate digital asset operations securely using MPC (Multi-Party Computation), at any scale. It provides wallet creation, transaction automation, multi-approval flows, spending policies, and audit logs through one unified API.",
+  "website": "https://fystack.io",
+  "annotations": "email: marketing@fystack.io, company: Fystack",
+  "chains": "bsc",
+  "tags": "All"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
     "category": "Analytics & Dashboards",
     "name": "Dune",
     "desc": "Blockchain ecosystem analytics by and for the community",
@@ -74,6 +96,16 @@
   {
     "category": "Blockchain Access",
     "groupTitle": "Block Explorers",
+    "name": "Binplorer",
+    "logo": "https://binplorer.com/images/binplorer/binplorer-icon-white-bg-40x40.png",
+    "desc": "Blockchain explorer for the BNB Chain. Historical balances in USD for any addresses, API where you can get all tokens at any address.",
+    "website": "https://binplorer.com",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
     "name": "BSCTrace",
     "desc": "Blockchain explorer of BNB Chain from NodeReal",
     "website": "https://bsctrace.com/",
@@ -100,6 +132,15 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "CryptoGugu",
+    "desc": "GuGu is a meme coin that used on skill-based competitive platform specifically designed for mainstream casual crypto earners.",
+    "website": "https://cryptogugu.com/",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
     "name": "NodeReal",
     "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
@@ -116,6 +157,16 @@
     "chains": "bsc",
     "tags": "Game,Defi"
   },
+  {
+  "category": "Blockchain Access",
+  "groupTitle": "Node and Archive Services",
+  "name": "Zeeve",
+  "logo": "https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2024/06/LogoBlackGreen.png",
+  "desc": "Scalable and enterprise-grade RPC, validator, full and archive node infrastructure for BNB Chain and other networks.",
+  "website": "https://www.zeeve.io/",
+  "chains": "bsc",
+  "tags": "Infra,Validator"
+},
   {
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
@@ -199,6 +250,47 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "TencentCloud",
+    "desc": "TencentCloud provides builders with streamlined access to a global network of nodes running on 20 different blockchains",
+    "website": "https://www.tencentcloud.com/products/rpc",
+    "logo": "https://zhixinliancos.zxchain.qq.com/tencentcloudlogo/RPClogo.svg",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "All That Node",
+    "desc": "All That Node is the most comprehensive multi-chain development suite, designed to support multiple networks from a single platform.",
+    "website": "https://www.allthatnode.com/",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/Auprun0gwQIz5PHyMhvkA",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+   {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "GetBlock",
+    "desc": "GetBlock delivers high-performance RPCs, faucets, block explorers, data indexing, analytics, full-stack DEX dev, oracle integrations, cross-chain bridges.",
+    "website": "https://getblock.io/?utm_source=bnb&utm_campaign=github&utm_content=bnb_ecosystem",
+    "logo": "https://storage.getblock.io/web/getblock-ui-kit/logo_blue.svg",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "NFT Tools",
     "name": "NFTScan",
     "desc": "The NFTScan API helps developers build new experiences retrieving NFTs and data analysis. We provide a set of endpoints that enable you to fetch ERC721 and ERC1155 NFT assets as well as transactions, collections, marketplace statistics and more",
@@ -232,6 +324,27 @@
     "website": "https://nftrade.com/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+  "category": "Blockchain Access",
+  "groupTitle": "Data Indexing",
+  "name": "Envio",
+  "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.png",
+  "desc": "Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.",
+  "website": "https://envio.dev",
+  "annotations": "email: jordyn@envio.dev",
+  "chains": "bsc,opbnb",
+  "tags": "Game,Defi"
+},
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Envio",
+    "desc": "High performance, customisable, multichain, data indexer", 
+    "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.svg",
+    "website": "https://envio.dev/",
+    "chains": "bsc, opbnb",
+    "tags": "ALL"
   },
   {
     "category": "Blockchain Access",
@@ -295,6 +408,37 @@
     "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
     "website": "https://www.hashflow.com/",
     "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Kontos Protocol",
+    "desc": "The first user-focused omnichain infrastructure powered by zk.",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/8vof9U_5tipRuJDUQvsIJ",
+    "website": "https://kontos.io/",
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "IGO dApp",
+    "desc": "IGO dApp is a dApp built on the Add3 APP platform.",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/bqOtpFkzjWC0jh4bwXgRN",
+    "website": "https://app.igocoin.org",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Defiway",
+    "desc": "Fast cross-chain bridge with low fees",
+    "logo": "https://fs.defiway.com/icons/defiway_wh.svg",
+    "website": "https://defiway.com",
+    "chains": "bsc",
+    "annotations": "email: defiway.solid@gmail.com",
     "tags": "Defi"
   },
   {
@@ -552,6 +696,24 @@
   },
   {
     "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "GitMyABI",
+    "desc": "A smart contract ABI platform for developer teams and AI agents. Automates ABI generation, versioning, TypeScript bindings, npm package publishing, and CDN delivery.",
+    "logo": "https://cdn.axlabs.net/gitmyabi-logos/GitMyABI.svg",
+    "website": "https://gitmyabi.com",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Reclaim Protocol",
+    "desc": "Reclaim simplifies integrating external user activity, reputation, and identity into your platform.",
+    "website": "https://www.reclaimprotocol.org/",
+    "chains": "bsc",
+    "tags": "Identity"
+  },
+  {
+    "category": "Development",
     "groupTitle": "Wallet SDK",
     "name": "Venly",
     "desc": "Wallet creation by social accounts",
@@ -583,6 +745,17 @@
     "name": "BSC Connector",
     "desc": "This example demonstrates how to support the Binance Chain Wallet through a custom connector",
     "website": "https://github.com/aragon/use-wallet/tree/master/examples",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "JAW",
+    "logo": "https://docs.jaw.id/logo.svg",
+    "desc": "JAW provides smart account infrastructure for BSC Chain applications. Give users passkey-secured accounts with ENS identity, sponsor their gas, and enable programmable permissions for subscriptions and delegated agent execution.",
+    "website": "https://jaw.id",
+    "annotations": "email: hello@justalab.co",
     "chains": "bsc",
     "tags": "ALL"
   },
@@ -641,6 +814,16 @@
     "website": "https://chain.link",
     "chains": "bsc",
     "tags": "Game,Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Oracle",
+    "name": "RedStone Oracles",
+    "logo": "https://redstone.finance/assets/img/redstone-logo-full.svg",
+    "desc": " RedStone is a decentralized modular oracle that provides gas-optimized data feeds. It specializes in offering price feeds for emerging assets, such as liquid staking tokens (LSTs), liquid restaking tokens (LRTs), and Bitcoin staking derivatives.",
+    "website": "https://redstone.finance/",
+    "chains": "bsc",
+    "tags": "Defi"
   },
   {
     "category": "On-Chain Game Development",
@@ -761,6 +944,16 @@
   {
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
+    "name": "CEEK",
+    "logo": "https://pbs.twimg.com/profile_images/1047966430623424512/22SkLo1e_400x400.jpg",
+    "desc": "Web2 Content Monetization Platform for Creators and Fans",
+    "website": "https://www.ceek.com/",
+    "chains": "bsc",
+    "tags": "Socials"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
     "name": "Colyseus",
     "logo": "https://colyseus.io/images/logos/logo-light.png",
     "desc": "Own your authoritative game servers.",
@@ -781,12 +974,33 @@
   {
     "category": "On-Chain Game Development",
     "groupTitle": "Metaverse Framework",
+    "name": "MEET48",
+    "logo": "https://www.meet48.xyz/images_new2/logo.png",
+    "desc": "MEET48: WEB3 & Intelligent Social Metaverse",
+    "website": "https://www.meet48.xyz/",
+    "chains": "opbnb",
+    "tags": "Socials"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Metaverse Framework",
     "name": "Orbofi",
     "logo": "https://www.orbofi.com/images/logo.png",
     "desc": "Create and chat with useful, fun and personalized AI agents.",
     "website": "https://www.orbofi.com/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "On-Chain Game Development",
+    "groupTitle": "Game Marketplace",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "On-Chain Game Development",
@@ -1011,7 +1225,6 @@
     "category": "DeFi Development",
     "groupTitle": "Multi-sig Wallet",
     "name": "DeSig",
-    "logo": "https://desig.io/_next/static/media/brand-in-dark.b10649f7.svg",
     "desc": "The first Omnichain Smart Multisig wallet that streamlines treasury ops.",
     "website": "https://desig.io/",
     "chains": "bsc",
@@ -1036,6 +1249,17 @@
     "website": "https://mpcvault.com/",
     "chains": "bsc",
     "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "NFT Marketplace",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "DeFi Development",
@@ -1099,7 +1323,6 @@
     "category": "DeFi Development",
     "groupTitle": "MEV Tools",
     "name": "TxBoost",
-    "logo": "https://bsc-explorer.blocksmith.org/static/logo.8f94a0d5.png",
     "desc": "Boost your geth with faster and more transactions.",
     "website": "https://bsc-explorer.blocksmith.org/dashboard/block",
     "chains": "bsc",
@@ -1107,7 +1330,18 @@
   },
   {
     "category": "DeFi Development",
-    "groupTitle": "Data Analyticis",
+    "groupTitle": "Data Analytics",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
     "name": "TheGraph",
     "logo": "",
     "desc": "An indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
@@ -1117,7 +1351,7 @@
   },
   {
     "category": "DeFi Development",
-    "groupTitle": "Data Analyticis",
+    "groupTitle": "Data Analytics",
     "name": "Dune",
     "logo": "https://dune.com/assets/DuneLogoCircle.svg",
     "desc": "Blockchain ecosystem analytics by and for the community",
@@ -1129,7 +1363,6 @@
     "category": "DeFi Development",
     "groupTitle": "Data Analytics",
     "name": "DeFiLlama",
-    "logo": "https://defillama.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdefillama.c6870a18.png&w=828&q=75",
     "desc": "A DeFi TVL aggregator.",
     "website": "https://defillama.com/",
     "chains": "bsc",
@@ -1141,6 +1374,16 @@
     "name": "NodeReal",
     "desc": "Create and Deploy a Subgraph Using MegaNode Archive Node.",
     "website": "https://nodereal.io/blog/en/how-to-integrate-with-thegraph-using-meganode-archive-node/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Data Analytics",
+    "name": "Codex",
+    "logo": "https://cdn.prod.website-files.com/6669befdbe2926bfc0a8363a/6669bfb80cb8f7130aeec42c_Codex%20Webclip.png",
+    "desc": "Real-time blockchain data API for token prices, charts, wallets, and transactions across multiple networks.",
+    "website": "https://www.codex.io",
     "chains": "bsc",
     "tags": "Defi"
   },
@@ -1158,7 +1401,6 @@
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
     "name": "DEXTools",
-    "logo": "https://www.dextools.io/app/assets/img/logo/dextools_logo.png",
     "desc": "The gateway to DEFI, real-time charts, history and all token info from blockchain.",
     "website": "https://www.dextools.io/app/en/pairs",
     "chains": "bsc",
@@ -1167,10 +1409,40 @@
   {
     "category": "DeFi Development",
     "groupTitle": "Smart Trading",
+    "name": "Pepe_Terminal",
+    "logo": "https://neurapepeai.com/assets/logos.svg",
+    "desc": "Smart Analytic Dashboard,real-time charts, Auto-generated Agents, SmartSwap on BSC, ETH, Base EVM",
+    "website": "https://app.neurapepeai.com/",
+    "chains": "bsc",
+    "tags": "Analytics,Defi,AI,Dapps"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
     "name": "DEXGuru",
     "logo": "https://dex-bin.bnbstatic.com/new/static/images/dev-tools/icons/DexGuru.png?v=3",
     "desc": "Guru️ knows a thing or two about what is going on at AMM DEXs.",
     "website": "https://dex.guru/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "Defined",
+    "logo": "https://cdn.prod.website-files.com/6669befdbe2926bfc0a8363a/699cb709ff4aaf9954894c47_defined-fav.jpg",
+    "desc": "Multi-chain trading terminal with real-time charts, analytics, and customizable trading tools.",
+    "website": "https://www.defined.fi",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "chatXZI",
+    "logo": "https://chatxzi.com/assets/logos.svg",
+    "desc": "The gateway to DEFI, real-time charts, Social Metrics and fast swap on BSC Network.",
+    "website": "https://chatxzi.com",
     "chains": "bsc",
     "tags": "Defi"
   },
@@ -1194,13 +1466,64 @@
     "tags": "Defi"
   },
   {
+    "category": "DeFi Development",
+    "groupTitle": "Staking",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Staking",
+    "name": "InceptionLRT",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/t_AjK-gBww9K1RjKS_qLc",
+    "desc": "Omnichain and Multi-Network Liquid Restaking Protocol",
+    "website": "https://www.inceptionlrt.com/",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
     "category": "AI Toolings",
     "groupTitle": "AI Modeling",
-    "name": "Glows.Ai",
-    "logo": "https://glows.ai/images/logo.svg",
+    "name": "Aggregata.xyz",
+    "logo": "https://aggregata.xyz/logo.svg",
     "desc": "Offers DEXs, DEX aggregators, cross-chain bridges, all necessary data sources, and smart order routing.",
-    "website": "https://glows.ai/",
+    "website": "https://aggregata.xyz/",
     "chains": "greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "QuillShield",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/image_1_1_9ca0ebdcbf.svg",
+    "desc": "AI-powered Web3 Security for your dApp’s DevSecOps.",
+    "website": "https://shield.quillaudits.com/",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Cookie3",
+    "logo": "https://ugc.production.linktr.ee/a65411b5-e3e7-44c9-b8e1-8cf1eee443ca_photo-2024-04-24-11.36.06.jpeg?io=true&size=avatar-v3_0",
+    "desc": "Cookie3 is the first MarketingFi and data AI protocol with a mission to create a transparent economy for individuals, creators, and businesses, driven by a vision of fair value exchange.",
+    "website": "https://www.cookie3.com",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "DIN",
+    "logo": "https://din.lol/images/logo.png",
+    "desc": "DIN is the First Modular AI-Native Data Pre-Processing Layer.",
+    "website": "https://din.lol/",
+    "chains": "bsc,opbnb,greenfield",
     "tags": "AI"
   },
   {
@@ -1211,6 +1534,35 @@
     "desc": "Make your services discoverable on the Fetch.ai Platform with the first open network for AI Agents.",
     "website": "https://fetch.ai/",
     "chains": "greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "PalioAI",
+    "desc": "Meet Palio, your one and only AI buddy to interact, discover and play with.",
+    "website": "https://xter.io/games/dcc09aa229e9",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "Stability World AI",
+    "logo": "https://stabilityworld.ai/assets/images/logo.svg",
+    "desc": "A blockchain-powered generative AI platform with one-stop features, advanced API services, and an accelerating AI hub for Web3.",
+    "website": "https://stabilityworld.ai/",
+    "chains": "bsc",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "TRACKS",
+    "logo": "https://label.foundation/logo.svg",
+    "desc": "Enjoy your lifestyle music and get rewarded, powered by AI and blockchain.",
+    "website": "https://label.foundation/",
+    "chains": "opbnb",
     "tags": "AI"
   },
   {
@@ -1227,7 +1579,6 @@
     "category": "AI Toolings",
     "groupTitle": "Data Management And Processing",
     "name": "Glacier.io",
-    "logo": "https://www.glacier.io/assets/nav-logo-dark.44660058.png",
     "desc": "A L2 rollup network that empowers decentralized applications (DApp) to build on decentralized databases (DDB).",
     "website": "https://www.glacier.io/",
     "chains": "bsc,greenfield",
@@ -1246,16 +1597,6 @@
   {
     "category": "AI Toolings",
     "groupTitle": "Infra Service",
-    "name": "AIOZ",
-    "logo": "",
-    "desc": "Empowers web3 builders with a one-click integration of dApps.",
-    "website": "https://aioz.network/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Infra Service",
     "name": "4Everland",
     "logo": "",
     "desc": "A Web 3.0 cloud computing platform that integrates storage, computing, and network as its core capabilities.",
@@ -1267,29 +1608,9 @@
     "category": "AI Toolings",
     "groupTitle": "Codebase Marketplace",
     "name": "CodexField",
-    "logo": "https://codexfield.com/_next/static/media/logo.ce70a327.svg",
+    "logo": "https://codexfield.com/favicon.png",
     "desc": "Provides a code management tool called gitd, fully compatible with Git usage.",
     "website": "https://codexfield.com/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Cloud Computing",
-    "name": "Deeper.network",
-    "logo": "https://www.deeper.network/_next/image?url=%2Flogo.png&w=256&q=75",
-    "desc": "Combines network security, blockchain technology and a sharing economy to build Web 3.0 infrastructure and ecosystem.",
-    "website": "https://www.deeper.network/",
-    "chains": "greenfield",
-    "tags": "AI"
-  },
-  {
-    "category": "AI Toolings",
-    "groupTitle": "Cloud Computing",
-    "name": "Aleph.im",
-    "logo": "",
-    "desc": "Is focused on enhancing user experience, scalability, and security.",
-    "website": "https://aleph.im/",
     "chains": "greenfield",
     "tags": "AI"
   },
@@ -1301,6 +1622,17 @@
     "website": "http://biconomy.io/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Liteflow",
+    "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
+    "desc": "Analyze, Launch, and Scale Web3 Projects",
+    "website": "https://liteflow.com/",
+    "annotations": "email: contact@liteflow.com",
+    "chains": "bsc",
+    "tags": "Game, Defi"
   },
   {
     "category": "NFT Marketplace",
@@ -1319,6 +1651,25 @@
     "website": "https://www.venly.io/",
     "chains": "bsc",
     "tags": "Game"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Metale Protocol",
+    "desc": "A new-era global content distribution protocol that provides on-chain services for content subscription, transparent profit-sharing, and asset transactions.",
+    "website": "https://www.metale.world",
+    "chains": "opbnb,Greenfield",
+    "tags": "Defi"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "NFTFeed",
+    "logo": "https://dappbay-static.bnbchain.org/static/dapp-uploads/lKwwwS7YVHwU8mWwLyuYe",
+    "desc": "NFTFeed is Web3 NFT Solution platform on multichain.",
+    "website": "https://mint.nftfeed.guru/",
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
   },
   {
     "category": "NFT Marketplace",
@@ -1499,6 +1850,16 @@
     "name": "Zokyo",
     "desc": "Security audits (protocol, base code, wallet, smart contract), Penetration Testing and other security assessments",
     "website": "https://www.zokyo.io/",
+    "chains": "bsc",
+    "tags": "ALL"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "QuillAudits",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/Quill_Audits_Icon_White_on_Gradient_1_3d974029a2.svg",
+    "desc": "Web3 security leader with robust audits, penetration testing and more, having audited 1000+ projects since 2018.",
+    "website": "https://www.quillaudits.com/smart-contract-audit",
     "chains": "bsc",
     "tags": "ALL"
   },
@@ -1749,6 +2110,49 @@
     "tags": "Defi"
   },
   {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "iMe Messenger and Crypto Wallet",
+    "desc": "iMe is a messaging smart platform powered by Telegram with Crypto Wallet.",
+    "website": "https://www.imem.app/",
+    "isSupportStaking": true,
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Grindery Wallet",
+    "logo": "https://reputation-bnb.anima.io/img/anima-white-icon.svg",
+    "desc": "Grindery Wallet integrates with Telegram making crypto transactions as simple as sending a message.",
+    "website": "https://www.grindery.com/",
+    "isSupportStaking": false,
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+   {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Coin Wallet",
+    "logo": "https://coin.space/bassets/images/yRDhG3sqmo-228.svg",
+    "desc": "An open-source, self-custodial multi-chain wallet with support for BNB and BEP-20 tokens.",
+    "website": "https://coin.space/",
+    "isSupportStaking": false,
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Gem Wallet",
+    "logo": "https://gemwallet.com/images/presskit/gemwallet-icon-256x256.svg",
+    "desc": "Gem Wallet is an open-source and self-custodial crypto wallet that lets you send, receive, swap, use dApps, buy, and stake cryptocurrencies.",
+    "website": "https://gemwallet.com/",
+    "isSupportStaking": true,
+    "chains": "bsc,opbnb",
+    "tags": "Defi"
+  },
+  {
     "category": "Token Approval Tools",
     "groupTitle": "",
     "name": "BscScan",
@@ -1765,6 +2169,16 @@
     "desc": "Manage your token allowances and protect yourself from scams on 30+ chains, including Ethereum, BSC and Polygon.",
     "website": "https://revoke.cash/",
     "logo": "https://nodereal.io/static/ihs/images/bnb-dev-tools/icons/68d88ddb-8d16-427b-952b-3cba08d0390d.png",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "QuillCheck",
+    "logo": "https://ambitious-kindness-505c138052.media.strapiapp.com/1_10_a533b8f6b3.svg",
+    "desc": "Uncover honeypots, understand token permissions, and get comprehensive market insights.",
+    "website": "https://quillcheck.quillaudits.com/",
     "chains": "bsc",
     "tags": "Defi"
   },
@@ -1799,13 +2213,142 @@
     "tags": "AI,DeSoc"
   },
   {
- "category": "Blockchain Access",
- "groupTitle": "Data APIs Real-time and Indexed",
- "name": "Bitquery",
- "desc": "Real-time and historical data for BNB chain and opBnB",
- "website": "https://bitquery.io/",
- "logo": "https://bitquery.io/favicon/logo.svg",
- "chains": "bsc, opBnb, BnB",
- "tags": "Data, Infra, API"
- }
+   "category": "Blockchain Access",
+   "groupTitle": "Data APIs Real-time and Indexed",
+   "name": "Bitquery",
+   "desc": "Real-time and historical data for BNB chain and opBnB",
+   "website": "https://bitquery.io/",
+   "logo": "https://bitquery.io/favicon/logo.svg",
+   "chains": "bsc, opBnb, BnB",
+   "tags": "Data, Infra, API"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Anima",
+    "desc": "Anima is a dID protocol reshaping how users manage online identity and reputation. Our reputation system is designed to build Sybil resistance. It uses a privacy-friendly Proof of Personhood solution and SBTs on BNB to enable protocols to engage with genuine users for governance or airdrop events.",
+    "logo": "https://reputation-bnb.anima.io/img/anima-white-icon.svg",
+    "website": "http://reputation-bnb.anima.io/",
+    "chains": "bsc",
+    "tags": "AI,Defi,Game,DeSoc"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Reclaim Protocol",
+    "desc": "SDK to learn about your users' identity, credentials and reputation",
+    "website": "https://www.reclaimprotocol.org/",
+    "chains": "bsc",
+    "tags": "Identity,Socials,Defi"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Attestation Service",
+    "name": "BAS",
+    "desc": "The BNB Attestation Service (BAS) is an infrastructure built on the BNB ecosystem for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield. This approach ensures data privacy and access control.",
+    "logo": "https://greenfield-sp.defibit.io/view/rido-x/rido-icon.svg",
+    "website": "https://bascan.io/",
+    "chains": "bsc, opbnb, greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Data Marketplace",
+    "name": "RIDO",
+    "desc": "RIDO is a personal data marketplace where data with the same schema form data pools. Users can contribute their data to relevant data pools and earn income. Buyers can purchase access to specific data pools to obtain all the data within those pools.",
+    "logo": "https://greenfield-sp.defibit.io/view/rido-x/rido.svg",
+    "website": "https://rido.io/",
+    "chains": "bsc, opbnb, greenfield",
+    "tags": "AI"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "N Suite",
+    "desc": "N Suite is a subscription-based, enterprise grade Private Key Management tool for Web3 operations.  It enables teams to securely manage their on-chain assets, while achieving efficiencies necessary to scale operations.",
+    "website": "https://www.nsuite.io/",
+    "chains": "bsc",
+    "tags": "Game,Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "BNB Chain Bridge",
+    "logo": "https://static.bnbchain.org/home-ui/static/images/favicon.ico",
+    "desc": "Bridge and transfer your assets between networks (Ethereum, Polygon and etc.) and BNB Chain blockchain ecosystem.",
+    "website": "https://www.bnbchain.org/en/bnb-chain-bridge",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "BNB Greenfield Bridge",
+    "logo": "https://static.bnbchain.org/home-ui/static/images/favicon.ico",
+    "desc": "BNB Greenfield Bridge facilitates the transfer of BNB between BNB Smart Chain (BSC) and BNB Greenfield.",
+    "website": "https://greenfield.bnbchain.org/en/bridge",
+    "chains": "bsc, greenfield",
+    "tags": "Defi"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "opBNB Bridge",
+    "logo": "https://static.bnbchain.org/home-ui/static/images/favicon.ico",
+    "desc": "The official opBNB Bridge lets you transfer tokens between BNB Smart Chain (BSC) and opBNB, a layer-2 solution that delivers lower fees and higher throughput.",
+    "website": "https://opbnb-bridge.bnbchain.org/deposit",
+    "chains": "bsc, opbnb",
+    "tags": "Defi"
+  },
+  {
+    "category": "Infrastructure",
+    "groupTitle": "",
+    "name": "APRO ATTPs",
+    "logo": "https://www.apro.com/apro.svg",
+    "desc": "APRO is a secure data transfer layer for AI agents, setting the benchmark in secure data for Crypto and AI agents with ATTPs (AgentText Transfer Protocol Secure)—the world’s first blockchain-based AI data transfer protocol. ATTPs is also a novel protocol designed to ensure all AI agent data transfers are secure(tamper-proof) and verifiable. By implementing a multi-layered verification mechanism incorporating zero-knowledge proofs, Merkle trees, and blockchain consensus protocols, ATTPs establish a trustworthy communication infrastructure for the emerging AI agent ecosystem.",
+    "website": "https://www.apro.com/",
+    "chains": "BNB Chain, Ethereum, Base, Arbitrum, Ton, Core, Babylon Devnet, Berachain, Hashkey Chain, IoTex, Zetachain, Taiko, Mint Blockchain, Duckchain, Mode, Linea, Bitlayer, BounceBit, CKB, Manta, Mantle, Merlin, Bitfinity Network, Morph, BOB, BSquared Network, zklink",
+    "tags": "AI"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Zerion API",
+    "logo": "https://cdn.prod.website-files.com/625440d0613eaa2ace513f45/6992fcb21127be0de2e70d69_Icon_square.svg",
+    "desc": "Enterprise-grade wallet data API for BNB Smart Chain and other major blockchains. One unified schema for token balances, DeFi positions, NFTs, transaction history, PnL, and token metadata.",
+    "website": "https://zerion.io/api",
+    "annotations": "email: api@zerion.io",
+    "chains": "bsc",
+    "tags": "All"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "name": "uDegen",
+    "logo": "https://i.ibb.co/TBMH6pM0/logo-2.png",
+    "desc": "uDegen focuses on helping users better analyze tokens and market activity.",
+    "website": "https://udegen.io",
+    "groupTitle": "",
+    "chains": "bsc",
+    "tags": "Defi,AI"
+  },
+  {
+    "category": "Infrastructure",
+    "groupTitle": "Decentralized Cloud Computing",
+    "name": "Aleph Cloud",
+    "logo": "https://cryptologos.cc/logos/aleph-im-aleph-logo.svg?v=040",
+    "desc": "Supercloud offering developers access to decentralized database storage, VPS, compute, TEE and AI. EVM and SVM compatible.",
+    "website": "https://aleph.cloud",
+    "chains": "bsc",
+    "tags": "ALL,AI"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "name": "pCLAW Intel",
+    "logo": "https://pokebookai.com/assets/pclaw.png",
+    "desc": "pCLAW is Agent Intel Protocol and Simple AI Agent Infrastructure Platform.",
+    "website": "https://pokebookai.com",
+    "groupTitle": "",
+    "chains": "bsc",
+    "tags": "Defi,AI"
+  }
 ]
