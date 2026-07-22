@@ -645,6 +645,15 @@
   {
     "category": "Development",
     "groupTitle": "Development Framework",
+    "name": "GitMyABI",
+    "desc": "A smart contract ABI platform for developer teams and AI agents. Automates ABI generation, versioning, TypeScript bindings, npm package publishing, and CDN delivery.",
+    "logo": "https://cdn.axlabs.net/gitmyabi-logos/GitMyABI.svg",
+    "website": "https://gitmyabi.com",
+    "chains": "bsc,opbnb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
     "name": "Reclaim Protocol",
     "desc": "Reclaim simplifies integrating external user activity, reputation, and identity into your platform.",
     "website": "https://www.reclaimprotocol.org/",
