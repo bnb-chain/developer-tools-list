@@ -6,6 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint-staged": "npx lint-staged",
     "lint": "jsonlint",
+    "validate": "node scripts/validate-data.js",
     "prepare": "husky"
   },
   "devDependencies": {
@@ -22,6 +23,7 @@
     }
   },
   "lint-staged": {
-    "**/*.json": "jsonlint"
+    "**/*.json": "jsonlint",
+    "data.json": "node scripts/validate-data.js"
   }
 }
