@@ -1330,6 +1330,17 @@
   },
   {
     "category": "DeFi Development",
+    "groupTitle": "MEV Tools",
+    "name": "FRB Agent",
+    "logo": "https://ai-frb.com/logo.svg",
+    "desc": "A non-custodial Windows execution assistant for user-configured BNB Chain workflows with local signing, simulation-first review, and private routes where the selected provider supports them.",
+    "website": "https://ai-frb.com/what-is-frb",
+    "annotations": "company: FRB; contact: https://ai-frb.com/support",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "DeFi Development",
     "groupTitle": "Data Analytics",
     "name": "Liteflow",
     "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
