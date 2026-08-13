@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint-staged": "npx lint-staged",
-    "lint": "jsonlint",
+    "lint": "jsonlint --quiet data.json",
     "validate": "node scripts/validate-data.js",
     "prepare": "husky"
   },

@@ -88,10 +88,18 @@ data.forEach((entry, i) => {
     );
   }
 
-  if (isNonEmptyString(entry.category) && isNonEmptyString(entry.name)) {
-    const key = `${entry.category.trim().toLowerCase()}|${entry.name.trim().toLowerCase()}`;
+  if (
+    isNonEmptyString(entry.category) &&
+    isString(entry.groupTitle) &&
+    isNonEmptyString(entry.name)
+  ) {
+    const key = [entry.category, entry.groupTitle, entry.name]
+      .map((value) => value.trim().toLowerCase())
+      .join('|');
     if (seen.has(key)) {
-      warnings.push(`${label}: duplicates entry[${seen.get(key)}] (same category + name)`);
+      warnings.push(
+        `${label}: duplicates entry[${seen.get(key)}] (same category + groupTitle + name)`
+      );
     } else {
       seen.set(key, i);
     }
