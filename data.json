@@ -1737,6 +1737,17 @@
   {
     "category": "Payment Gateway",
     "groupTitle": "",
+    "name": "AurasPay",
+    "logo": "https://auraspay.com/icon.png",
+    "desc": "AurasPay is non-custodial merchant payment acceptance infrastructure for BNB Smart Chain and other networks. Merchants create payment links, QR codes, point-of-sale requests, invoices, API integrations, webhooks, and ecommerce plugins. Customers sign transactions from their own wallets, and supported smart-contract settlement routes funds directly to the merchant wallet with a disclosed platform fee.",
+    "website": "https://auraspay.com",
+    "annotations": "email: support@auraspay.com, company: AurasPay",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
     "name": "SuperFluid",
     "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/SuperFluid.png?v=3",
     "desc": "Handle subscriptions, laries, rewards and any composable stream of value",
