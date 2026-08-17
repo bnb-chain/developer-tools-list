@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Launchpad",
+    "name": "Fairylaunch",
+    "logo": "https://fairylaunch.xyz/favicon-32x32.png",
+    "desc": "Fairylaunch is a token launch platform on BNB Chain with automated bonding curve. Create tokens for free. At 6 BNB, tokens graduate to PancakeSwap with liquidity locked forever.",
+    "website": "https://fairylaunch.xyz",
+    "annotations": "email: contact@fairylaunch.xyz, company: Fairylaunch",
+    "chains": "bsc",
+    "tags": "Defi"
   }
 ]
