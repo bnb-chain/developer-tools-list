@@ -2350,5 +2350,15 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "blockmachine",
+    "logo": "https://blockmachine.io/logo.svg",
+    "desc": "Blockmachine is an enterprise-grade RPC and archive node provider for BNB Smart Chain, with savings driven by competing independent node operators. 99.9% uptime with automatic failover.",
+    "website": "https://blockmachine.io/bnb-chain-rpc",
+    "chains": "bsc",
+    "tags": "All"
   }
 ]
