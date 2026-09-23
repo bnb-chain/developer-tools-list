@@ -142,6 +142,15 @@
   {
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
+    "name": "BlockRazor",
+    "desc": "Global Low-Latency Blockchain Infrastructure for trading bots, searchers, and quant trading systems",
+    "website": "https://blockrazor.io/",
+    "chains": "bsc",
+    "tags": "Infra,DeFi"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
     "name": "NodeReal",
     "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
     "website": "https://nodereal.io/",
