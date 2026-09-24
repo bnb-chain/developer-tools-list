@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+    },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "HostDeFi",
+    "logo": "https://app.devin.ai/attachments/b824dfb5-bc2c-4c57-aba1-e0aa328b443c/hostdefi-logo-40.png#w=40&h=40",
+    "desc": "Free public JSON-RPC relay covering 82 chains including BNB Smart Chain — keyless access at rpc.hostdefi.com, no account required. Operated by HostDeFi, a multi-chain validator and node operator.",
+    "website": "https://rpc.hostdefi.com",
+    "annotations": "email: verixiaapps@gmail.com, company: HostDeFi",
+    "chains": "bsc",
+    "tags": "Defi"
   }
 ]
