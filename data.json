@@ -2350,5 +2350,25 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Aggregator",
+    "name": "SODAX SDK",
+    "desc": "Intent-based execution and liquidity system for trading, lending, and moving assets between BNB Smart Chain and 20+ other networks, including Ethereum, Arbitrum, Base, Solana, Sui, Stellar, and Bitcoin. Independent solvers quote and fill each intent, and a cross-network money market lets users supply and borrow with collateral from any connected network. Integrate through the open-source TypeScript SDK (@sodax/sdk), the REST API at api.sodax.com, or @sodax/dapp-kit React hooks. Docs: https://docs.sodax.com",
+    "website": "https://www.sodax.com",
+    "logo": "https://marketing.sodax.com/images/SODA-token/soda-token.svg",
+    "chains": "bsc",
+    "tags": "DeFi"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "SODAX Builders MCP",
+    "desc": "Remote MCP server (https://builders.sodax.com/mcp) that gives AI coding agents live access to SODAX: supported networks and tokens, real trade quotes, money market rates, intent history, and the SODAX docs, so agents can build BNB Smart Chain and cross-network integrations with current data.",
+    "website": "https://docs.sodax.com/builders-mcp",
+    "logo": "https://marketing.sodax.com/images/SODA-token/soda-token.svg",
+    "chains": "bsc",
+    "tags": "DeFi,AI"
   }
 ]
