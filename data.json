@@ -1,4 +1,15 @@
 [
+    {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "MIDAS Sentinel",
+    "logo": "https://midassentinel.com/favicon.svg",
+    "desc": "MIDAS Sentinel is a web platform for analyzing newly detected tokens on BNB Smart Chain (BSC). It provides automated technical checks, token filtering, liquidity and holder data, contract risk indicators, historical performance statistics and Telegram notifications. Daily free tokens and a paid Premium subscription are available. The platform does not custody funds or execute trades.",
+    "website": "https://midassentinel.com",
+    "annotations": "email: info@midassentinel.com, project: MIDAS Sentinel",
+    "chains": "bsc",
+    "tags": "DeFi"
+  },
   {
   "category": "Infrastructure",
   "groupTitle": "MPC Wallets/Multisig",
