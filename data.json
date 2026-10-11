@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "DeFi Development",
+    "groupTitle": "Smart Trading",
+    "name": "BBBFi",
+    "logo": "https://www.bbbfi.com/brand/bbbfi-directory-40.svg",
+    "desc": "BBBFi provides fixed-supply token creation on BSC with zero platform fees (network gas applies), V2/V3 liquidity management, supported-pool smart routing, and creator-funded BBB liquidity reward campaigns. Creating a token does not automatically list it or create liquidity. Pool fees and liquidity, market and smart-contract risks apply.",
+    "website": "https://www.bbbfi.com/?chain=bsc&lang=en",
+    "annotations": "Project: BBBFi. Contact: qq429224280@gmail.com; https://x.com/bbbfidotcom. Chains field lists BSC only; the application also supports XDC. Brand icon is a 40x40 SVG container embedding the unchanged square PNG mark; it is not fully vectorized.",
+    "chains": "bsc",
+    "tags": "DeFi"
   }
 ]
