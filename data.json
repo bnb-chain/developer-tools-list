@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "BlockVectra",
+    "logo": "https://raw.githubusercontent.com/blockvectra/mcp/main/logo.png",
+    "desc": "BlockVectra provides multi-chain JSON-RPC, including BNB Smart Chain, and an indexed data API for developers and AI agents. Public RPC routes accept wallet-oriented requests without an account or API key; per-IP limits and history bounds are published in a machine-readable chain list. The Data API uses an API key. A remote MCP server gives AI agents keyless access to the docs, chain list and pricing.",
+    "website": "https://blockvectra.com/en/?ref=dir-bnb-devtools",
+    "chains": "bsc",
+    "annotations": "company: BlockVectra (submitted by its maintainer; contact via the GitHub pull request)",
+    "tags": "All"
   }
 ]
