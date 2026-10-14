@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "MARCO Connect",
+    "logo": "https://marco.melega.ai/brand/marco-logo-canonical.png",
+    "desc": "MARCO Connect is an embeddable SDK for BNB Smart Chain applications that manages wallet sessions, discovers or creates a MARCO Passport, exposes readonly identity and M-Credits state, and emits stable lifecycle events for application integrations.",
+    "website": "https://marco.melega.ai/build/docs",
+    "annotations": "email: marco@melega.ai, company: Melega",
+    "chains": "bsc",
+    "tags": "DeSoc,Defi"
   }
 ]
