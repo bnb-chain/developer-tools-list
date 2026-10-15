@@ -1,5 +1,16 @@
 [
   {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "BoltUtil",
+    "logo": "https://boltutil.com/logo.png",
+    "desc": "Non-custodial stablecoin payment API for online merchants and developers. Create payment orders, offer hosted checkout, match on-chain transfers and receive signed webhooks after confirmation. Payments go directly to the merchant's wallet. Supports BNB Smart Chain.",
+    "website": "https://boltutil.com/",
+    "annotations": "Contact: support@boltutil.com; Project: BoltUtil; submitted by the project maintainer.",
+    "chains": "bsc",
+    "tags": "DeFi"
+  },
+  {
   "category": "Infrastructure",
   "groupTitle": "MPC Wallets/Multisig",
   "name": "Fystack",
