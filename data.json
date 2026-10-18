@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "Predge",
+    "logo": "https://predge.io/icon.png",
+    "desc": "Signed, bond-backed verdicts on whether an AI agent's paid job was delivered. An escrow reads the verdict before release or refund, and every ruling can be challenged for 24 hours against a bond. Contracts on BSC (verified on Sourcify): PredgeRefundArbiter 0xb2972B4944Eec83946EB7B23D572AbE04F46E22c, AgentJob (ERC-8183 escrow) 0xcBaB4a9FA4d756b4C5e2a18F055d2E0132CE7D1D, PredgeAgentValidator (ERC-8004) 0x925767fdce6C819F027f55CC50464e3bCdfD2671. Verdicts also sold per call through an x402 API.",
+    "website": "https://predge.io",
+    "annotations": "email: hello@predge.io, company: Predge, docs: https://predge.io/docs",
+    "chains": "bsc",
+    "tags": "AI"
   }
 ]
