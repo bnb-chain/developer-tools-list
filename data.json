@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Thyme Flow",
+    "logo": "https://flow.thymelabs.io/favicon.svg",
+    "desc": "Thyme Flow is a hosted service for scheduled and webhook-triggered TypeScript smart-contract automation on BNB Smart Chain. Its SDK and CLI support local task development, immutable releases, persistent state, secrets, and execution logs. Roles profiles execute permitted contract calls from a customer-owned Safe.",
+    "website": "https://flow.thymelabs.io/",
+    "annotations": "email: support@thymelabs.io, company: Thyme Labs (operated by Neovate s.r.o.)",
+    "chains": "bsc",
+    "tags": "All"
   }
 ]
