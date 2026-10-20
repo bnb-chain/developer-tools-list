@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Triport",
+    "logo": "https://triport.io/triport-icon-64.png",
+    "desc": "Read-focused BNB Smart Chain JSON-RPC: archive state, eth_getLogs, eth_getProof and a txpool view of the routed node. Flat monthly plans limited by requests per second, with no credits or compute units. A keyless public endpoint is available at https://triport.io/public/bsc.",
+    "website": "https://triport.io/bsc-rpc",
+    "annotations": "email: sales@triport.io, company: Triport",
+    "chains": "bsc",
+    "tags": "All"
   }
 ]
