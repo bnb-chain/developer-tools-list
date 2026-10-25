@@ -280,6 +280,17 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "eRPC",
+    "logo": "https://raw.githubusercontent.com/erpc/erpc/main/docs/public/assets/logo.jpeg",
+    "desc": "eRPC is an open-source (Apache-2.0), self-hosted EVM RPC proxy. It sits in front of several RPC providers or your own nodes and adds failover across upstreams, retries and hedging, a reorg-aware response cache, and rate limiting.",
+    "website": "https://github.com/erpc/erpc",
+    "annotations": "email: kasra@goldsky.com, company: eRPC, docs: https://docs.erpc.cloud",
+    "chains": "bsc,opbnb",
+    "tags": "All"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "NFT Tools",
     "name": "Liteflow",
     "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
