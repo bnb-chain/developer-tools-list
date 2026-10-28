@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "BlockClock",
+    "logo": "https://github.com/workolic.png",
+    "desc": "BlockClock checks contracts whose schedules are counted in blocks (vesting cliffs, unlock windows, reward epochs, timelocks). BNB Smart Chain went from 3-second to about 0.45-second blocks, so a schedule written as a block count now runs about 6.7 times faster than its authors intended, and no audit flags it because the code does what it says. BlockClock reads the chain's current block time, compares it with the one the schedule assumed and reports where each period and the whole calendar actually land, with a pass/fail threshold for CI (GitHub Action included). Open source, MIT. Built after we found the problem in our own token and reported it as issue #133 on bnb-chain/community-contributions.",
+    "website": "https://github.com/workolic/blockclock",
+    "annotations": "email: workolic@lucrar.pt, company: Cripteracia Unipessoal Lda (Lucrar)",
+    "chains": "bsc",
+    "tags": "All"
   }
 ]
