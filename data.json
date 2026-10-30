@@ -326,6 +326,16 @@
     "tags": "Game"
   },
   {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Pinax",
+    "logo": "https://pinax.network/assets/brand/logos/pinax_standalone.svg",
+    "desc": "Pinax provides Firehose and Substreams for BNB Smart Chain, plus archive JSON-RPC and a Token API. Firehose streams full blocks over gRPC, including call traces, balance changes and storage changes that a JSON-RPC node does not return. Substreams runs Rust modules in parallel on top of those blocks and writes the result to PostgreSQL or ClickHouse, streams it to a consumer, or feeds a Graph Node as a subgraph data source. Pinax runs its own BNB Smart Chain nodes.",
+    "website": "https://pinax.network/",
+    "chains": "bsc",
+    "tags": "All"
+  },
+  {
   "category": "Blockchain Access",
   "groupTitle": "Data Indexing",
   "name": "Envio",
