@@ -85,6 +85,17 @@
     "tags": "Game,Defi"
   },
   {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Archalis Radar",
+    "logo": "https://archalis.com/brand/favicon.svg",
+    "desc": "Risk ratings (AAA to C), honeypot and sell-tax simulation, and rug pull forensics for BNB Chain tokens, with a public API and an MCP server for bots and AI agents. Automated assessments of structural risk, not audits or financial advice.",
+    "website": "https://archalis.com",
+    "annotations": "email: support@archalis.com, company: Archalis",
+    "chains": "bsc",
+    "tags": "Defi,AI"
+  },
+  {
     "category": "Blockchain Access",
     "groupTitle": "Block Explorers",
     "name": "BscScan",
