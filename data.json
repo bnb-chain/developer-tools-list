@@ -1252,6 +1252,17 @@
   },
   {
     "category": "DeFi Development",
+    "groupTitle": "Multi-sig Wallet",
+    "name": "Ownbit",
+    "logo": "https://ownbit.io/favicon.svg",
+    "desc": "Ownbit is a paid, proprietary mobile self-custody wallet for BNB and BEP-20 tokens, with on-chain M-of-N multisignature approvals and optional QR-based offline signing.",
+    "website": "https://ownbit.io/en/bnb-smart-chain-multisig-wallet/",
+    "annotations": "email: support@ownbit.io, company: BITTOOL PTE. LTD.",
+    "chains": "bsc",
+    "tags": "DeFi"
+  },
+  {
+    "category": "DeFi Development",
     "groupTitle": "NFT Marketplace",
     "name": "Liteflow",
     "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
