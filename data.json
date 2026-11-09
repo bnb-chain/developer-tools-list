@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "vet402",
+    "logo": "https://vet402.com/brand/mark.svg",
+    "desc": "vet402 buys from x402 sellers that settle in USD1 on BNB Chain, re-reads each payment on chain and records whether the paid request returned content. Agents read the record through an API, an MCP server or the vet402 npm package before they pay. Records are public under CC BY 4.0.",
+    "website": "https://vet402.com/x402/chains/bnb-chain",
+    "annotations": "email: support@vet402.com, company: KIZUNA Creation",
+    "chains": "bsc",
+    "tags": "AI"
   }
 ]
