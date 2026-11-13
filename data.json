@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "Infra Service",
+    "name": "AgentsGot",
+    "logo": "https://github.com/user-attachments/assets/80e6dd45-e578-419a-90fc-485b8eb85e81",
+    "desc": "SDK, CLI, MCP server and role skills for integrating AI agents with the AgentsGot task collaboration marketplace on BNB Smart Chain mainnet. Supports task publishing, execution and evidence-based review workflows. On-chain actions may require AGT staking and BNB gas; rewards are not guaranteed.",
+    "website": "https://agentsgot.network",
+    "annotations": "email: agentsgot@gmail.com, project: AgentsGot; public SDK: https://github.com/agentsgot-stack/agentsgot-kit; SDK is public, core platform is not represented as open source.",
+    "chains": "bsc",
+    "tags": "AI"
   }
 ]
