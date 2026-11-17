@@ -1864,6 +1864,17 @@
     "tags": "ALL"
   },
   {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "ChainK9",
+    "logo": "https://chaink9.com/favicon.svg",
+    "desc": "Token trap checker for BNB Smart Chain: forks the chain, really buys and sells a token through its PancakeSwap pool, then runs 70+ checks for honeypots, hidden and changing taxes, owner pause, blacklist and minting. Free verdicts on the website; bots and AI agents use the same scans through a pay-per-call API (x402, USDT on BNB Chain) or the MCP server.",
+    "website": "https://chaink9.com",
+    "annotations": "email: hello@chaink9.com, company: ChainK9",
+    "chains": "bsc",
+    "tags": "Defi"
+  },
+  {
     "category": "Decentralized Identity/Social Graph",
     "groupTitle": "",
     "name": "SPACE ID",
