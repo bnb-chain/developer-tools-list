@@ -1688,7 +1688,7 @@
     "website": "https://www.element.market/bsc",
     "chains": "bsc,opbnb",
     "tags": "Game,Defi"
-  },
+  }, { "category": "NFT Marketplace", "groupTitle": "", "name": "AURUM AGENTS", "logo": "https://raw.githubusercontent.com/prasadreddys/developer-tools-list/add-aurum-agents/aurum-icon-400.png", "desc": "AURUM AGENTS is a premium NFT minting platform on BNB Smart Chain. It offers 5,555 robot NFTs, with 1,111 free mints (one per wallet) and 4,444 paid mints at 0.001 BNB. The smart contract is verified on BscScan and owned by a 2-of-3 multisig for security. Anyone can connect a wallet and mint in minutes.", "website": "https://aurumagents.pages.dev", "annotations": "email: v15099261@gmail.com, company: AURUM AGENTS", "chains": "bsc", "tags": "All" },
   {
     "category": "Payment Gateway",
     "groupTitle": "",
