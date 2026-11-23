@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Token Creation",
+    "name": "TheTokenLauncher",
+    "logo": "https://www.thetokenlauncher.com/favicon.svg",
+    "desc": "No-code BEP-20 token creator for BNB Smart Chain. Enter a name, symbol, decimals and total supply, pay one fee from your own wallet, and a fixed-supply BEP-20 contract is deployed with the whole supply sent to your wallet. No mint, blacklist or tax functions. Ownership can be renounced at creation. The contract source is public on GitHub.",
+    "website": "https://www.thetokenlauncher.com/bnb-token-creator/",
+    "annotations": "email: contact@thetokenlauncher.com, company: TheTokenLauncher, contract source: https://github.com/grahammccann2009/thetokenlauncher-bep20-token, new groupTitle requested: Token Creation (under Development) as no existing group covers token creators",
+    "chains": "bsc",
+    "tags": "All"
   }
 ]
