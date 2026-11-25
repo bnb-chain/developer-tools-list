@@ -365,6 +365,15 @@
     "tags": "Defi"
   },
   {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "BNB Data Engine",
+    "desc": "Freshness monitoring for BNB Chain RPC endpoints: polls BSC nodes, measures block age, reports status as JSON",
+    "website": "https://github.com/Andrei0181/bnb-data-engine",
+    "chains": "bsc",
+    "tags": "All"
+  },
+  {
     "category": "Cross-chain Bridges",
     "groupTitle": "",
     "name": "Celer cBridge",
