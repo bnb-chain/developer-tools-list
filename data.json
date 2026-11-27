@@ -280,6 +280,17 @@
   },
   {
     "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Tatum",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgLTMwIDI3MCAyNzAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4NS40NyA4OS4zN0gxMjAuMDlWMjA5LjUxSDE4NS40N1Y4OS4zN1oiIGZpbGw9IiM0RjM3RkQiLz48cGF0aCBkPSJNMjY5LjU0IDBIMTQ5LjM5VjYwLjA3SDI2OS41NFYwWiIgZmlsbD0iIzJDQ0Q5QSIvPjxwYXRoIGQ9Ik0xMjAuMDkgMjkuMjlIMFY4OS4zN0gxMjAuMDlWMjkuMjlaIiBmaWxsPSIjNEYzN0ZEIi8+PC9zdmc+",
+    "desc": "Tatum provides RPC nodes and data APIs for BNB Smart Chain. The BSC mainnet JSON-RPC endpoint https://bsc-mainnet.gateway.tatum.io answers without an API key at 5 requests per minute, for development and testing; an API key and paid plans raise the limit.",
+    "website": "https://tatum.io/chain/bsc",
+    "annotations": "company: Tatum",
+    "chains": "bsc",
+    "tags": "All"
+  },
+  {
+    "category": "Blockchain Access",
     "groupTitle": "NFT Tools",
     "name": "Liteflow",
     "logo": "https://liteflow.mypinata.cloud/ipfs/bafkreifqvrkdxhjfnztol53blwqf7qxzzqu2hoky4fws6ppsjcifwqzh74",
